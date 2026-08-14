@@ -5,23 +5,23 @@ Regenerate after every manuscript revision. Do not hand-edit scripts/.
 
 | Ch | Title | Spoken words | Est. runtime |
 |---:|---|---:|---:|
-| 1 | The brain in the freezer | 1,089 | 7m |
-| 2 | Forget everything, or remember everything | 1,162 | 8m |
+| 1 | The brain in the freezer | 1,129 | 8m |
+| 2 | Forget everything, or remember everything | 1,175 | 8m |
 | 3 | The question nobody answers | 988 | 7m |
-| 4 | Before, action, after | 1,496 | 10m |
-| 5 | Not words, not pictures | 976 | 7m |
-| 6 | A head full of rival guessers | 1,305 | 9m |
-| 7 | Never let it grade its own homework | 1,702 | 11m |
-| 8 | The price of a dimension | 1,353 | 9m |
-| 9 | Wanting things | 1,149 | 8m |
-| 10 | The brain that almost stopped learning anyway | 1,135 | 8m |
-| 11 | No scrapbook required | 1,048 | 7m |
-| 12 | Watching it learn | 962 | 6m |
-| 13 | The log it put back | 1,677 | 11m |
-| 14 | Wanting follows expecting | 2,515 | 17m |
-| 15 | A label, not fuel | 1,539 | 10m |
-| 16 | The steps, not the ingredients | 3,630 | 24m |
-| | **Total** | **23,726** | **2h 38m** |
+| 4 | Before, action, after | 1,497 | 10m |
+| 5 | Not words, not pictures | 979 | 7m |
+| 6 | A head full of rival guessers | 1,291 | 9m |
+| 7 | Never let it grade its own homework | 1,690 | 11m |
+| 8 | The price of a dimension | 1,361 | 9m |
+| 9 | Wanting things | 1,265 | 8m |
+| 10 | The brain that almost stopped learning anyway | 1,171 | 8m |
+| 11 | No scrapbook required | 1,078 | 7m |
+| 12 | Watching it learn | 1,051 | 7m |
+| 13 | The log it put back | 1,682 | 11m |
+| 14 | Wanting follows expecting | 2,508 | 17m |
+| 15 | A label, not fuel | 1,541 | 10m |
+| 16 | The steps, not the ingredients | 3,645 | 24m |
+| | **Total** | **24,051** | **2h 40m** |
 
 Runtime assumes 150 words per minute, which is a measured, unhurried non-fiction pace. Add roughly 8 percent for pauses, part openings, and front and back matter.
 

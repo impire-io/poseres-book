@@ -39,7 +39,7 @@ PART_NAMES, parse = _bn.PART_NAMES, _bn.parse
 
 from normalize import normalize  # noqa: E402
 
-BOOK = HERE.parent
+BOOK = HERE.parent / "src"
 OUT = HERE / "elevenlabs"
 
 # Placeholders the author must fill. Kept identical to FRONT-BACK-MATTER.md.

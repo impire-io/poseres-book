@@ -24,7 +24,7 @@ import re
 import sys
 
 HERE = pathlib.Path(__file__).resolve().parent
-BOOK = HERE.parent
+BOOK = HERE.parent / "src"
 OUT = HERE / "scripts"
 OVERRIDES_PATH = HERE / "audio-overrides.json"
 

@@ -1,0 +1,10 @@
+[book]
+title = "The PRA Book"
+description = "Why frozen models fail, what a sensorimotor triplet is, and how a population of competing frames learns structure nobody specified."
+authors = ["Daan Gerits"]
+language = "en"
+src = "src"
+
+[output.html]
+git-repository-url = "https://github.com/impire-io/poseres-book"
+site-url = "/poseres-book/"
