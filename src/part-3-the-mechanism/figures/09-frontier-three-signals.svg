@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 830" width="1200" height="830">
+  <rect x="1" y="1" width="1198" height="828" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+
+  <text x="272" y="110" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c">Mastered</text>
+  <text x="628" y="110" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c">Unlearnable</text>
+  <text x="984" y="110" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#c2410c">The frontier</text>
+
+  <rect x="116" y="140" width="312" height="200" rx="12" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <path d="M140 306 C196 306, 214 248, 268 234 C322 220, 356 200, 406 196" fill="none" stroke="#cbc8da" stroke-width="28" stroke-linecap="round"/>
+  <path d="M140 306 C196 306, 214 248, 268 234 C322 220, 356 200, 406 196" fill="none" stroke="#626779" stroke-width="2.5" stroke-opacity="0.55"/>
+  <path d="M162 282 v-12 M198 276 v-12 M236 250 v-12 M282 226 v-12 M330 210 v-12 M376 194 v-12" stroke="#7fae7a" stroke-width="2"/>
+  <path d="M170 330 v-12 M212 322 v-12 M258 300 v-12 M306 282 v-12 M354 262 v-12 M398 240 v-12" stroke="#7fae7a" stroke-width="2"/>
+
+  <rect x="472" y="140" width="312" height="200" rx="12" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <path d="M628 168 L600 142 M628 168 L660 146" stroke="#1b1f2c" stroke-width="2.5"/>
+  <rect x="536" y="168" width="184" height="146" rx="12" fill="#ffffff" stroke="#1b1f2c" stroke-width="2.5"/>
+  <rect x="552" y="182" width="124" height="112" rx="8" fill="#626779"/>
+  <rect x="558" y="188" width="9" height="9" fill="#e3e1ec"/>
+  <rect x="580" y="186" width="9" height="9" fill="#ffffff"/>
+  <rect x="604" y="192" width="9" height="9" fill="#cbc8da"/>
+  <rect x="630" y="188" width="9" height="9" fill="#e3e1ec"/>
+  <rect x="656" y="194" width="9" height="9" fill="#ffffff"/>
+  <rect x="566" y="208" width="9" height="9" fill="#cbc8da"/>
+  <rect x="592" y="212" width="9" height="9" fill="#ffffff"/>
+  <rect x="618" y="206" width="9" height="9" fill="#e3e1ec"/>
+  <rect x="644" y="212" width="9" height="9" fill="#cbc8da"/>
+  <rect x="662" y="216" width="9" height="9" fill="#e3e1ec"/>
+  <rect x="556" y="232" width="9" height="9" fill="#ffffff"/>
+  <rect x="582" y="236" width="9" height="9" fill="#cbc8da"/>
+  <rect x="608" y="230" width="9" height="9" fill="#e3e1ec"/>
+  <rect x="634" y="238" width="9" height="9" fill="#ffffff"/>
+  <rect x="660" y="234" width="9" height="9" fill="#cbc8da"/>
+  <rect x="562" y="256" width="9" height="9" fill="#e3e1ec"/>
+  <rect x="588" y="260" width="9" height="9" fill="#ffffff"/>
+  <rect x="616" y="254" width="9" height="9" fill="#cbc8da"/>
+  <rect x="642" y="260" width="9" height="9" fill="#e3e1ec"/>
+  <rect x="664" y="256" width="9" height="9" fill="#ffffff"/>
+  <rect x="570" y="278" width="9" height="9" fill="#cbc8da"/>
+  <rect x="598" y="280" width="9" height="9" fill="#e3e1ec"/>
+  <rect x="626" y="276" width="9" height="9" fill="#ffffff"/>
+  <rect x="652" y="280" width="9" height="9" fill="#cbc8da"/>
+  <circle cx="698" cy="208" r="10" fill="none" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="698" cy="240" r="10" fill="none" stroke="#1b1f2c" stroke-width="2"/>
+  <path d="M566 314 L556 330 M690 314 L700 330" stroke="#1b1f2c" stroke-width="2.5"/>
+
+  <rect x="828" y="140" width="312" height="200" rx="12" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <path d="M852 302 C900 300, 940 268, 986 244" fill="none" stroke="#c2410c" stroke-opacity="0.28" stroke-width="28" stroke-linecap="round"/>
+  <path d="M852 302 C900 300, 940 268, 986 244" fill="none" stroke="#c2410c" stroke-width="3"/>
+  <path d="M986 244 C1024 226, 1058 214, 1096 206" fill="none" stroke="#c2410c" stroke-opacity="0.35" stroke-width="3" stroke-dasharray="10 10"/>
+  <polygon points="1014,266 1032,258 1040,274 1020,280" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+  <polygon points="1052,290 1072,282 1080,298 1058,304" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+  <polygon points="1062,236 1080,228 1088,244 1068,250" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+  <polygon points="1096,268 1114,262 1120,276 1100,282" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+  <polygon points="1024,178 1042,172 1048,186 1030,192" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+  <polygon points="1082,182 1102,176 1108,192 1088,198" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+  <polygon points="1042,308 1058,302 1064,314 1046,320" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+
+  <text x="76" y="465" text-anchor="middle" transform="rotate(-90 76 465)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">prediction error over time</text>
+
+  <rect x="116" y="380" width="312" height="170" rx="12" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <path d="M156 400 V520 H392" fill="none" stroke="#1b1f2c" stroke-width="1.6"/>
+  <path d="M164 500 C210 500, 250 502, 300 500 C336 499, 360 501, 386 500" fill="none" stroke="#1b1f2c" stroke-width="2.5"/>
+
+  <rect x="472" y="380" width="312" height="170" rx="12" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <path d="M512 400 V520 H748" fill="none" stroke="#1b1f2c" stroke-width="1.6"/>
+  <path d="M520 424 L544 418 L566 428 L590 420 L614 426 L638 418 L662 428 L686 420 L710 426 L742 421" fill="none" stroke="#1b1f2c" stroke-width="2.5"/>
+
+  <rect x="828" y="380" width="312" height="170" rx="12" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <path d="M868 400 V520 H1104" fill="none" stroke="#1b1f2c" stroke-width="1.6"/>
+  <path d="M876 418 C920 424, 946 460, 986 480 C1024 498, 1064 502, 1098 503" fill="none" stroke="#c2410c" stroke-width="3"/>
+
+  <rect x="182" y="590" width="180" height="48" rx="24" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <text x="272" y="621" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">score: 0</text>
+
+  <rect x="538" y="590" width="180" height="48" rx="24" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <text x="628" y="621" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">score: 0</text>
+
+  <rect x="894" y="590" width="180" height="48" rx="24" fill="#ffffff" stroke="#c2410c" stroke-width="2"/>
+  <text x="984" y="621" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#c2410c">score: high</text>
+
+  <text x="628" y="684" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">endlessly new, and</text>
+  <text x="628" y="710" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">never learnable</text>
+
+  <text x="628" y="778" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c">not “is this new?” but “am I getting better here?”</text>
+</svg>

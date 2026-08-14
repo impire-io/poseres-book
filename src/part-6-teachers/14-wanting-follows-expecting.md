@@ -146,6 +146,8 @@ nulls lined up on the map as the same mistake repeated: a single
 upper layer, tested in a creature and a world missing the floor
 below it.
 
+![The motivation stack and its ugly twins](figures/14-motivation-stack-and-twins.svg)
+
 A map is a judgment, not a measurement. I let it order the queue,
 cheapest first, and I did not let it win: each layer would get its
 own gate, bars frozen before the runner existed.
@@ -274,6 +276,8 @@ channel read ten times finer than a single tick after roughly 5,000
 online updates from a cold start. Election: 24 of 24, 303 logs,
 above the oracle's 286. Chains: 13 of 24. More than double the bar,
 and more than double what the oracle arm itself had managed.
+
+![The cliff the frames blur](figures/14-the-cliff-the-frames-blur.svg)
 
 Sit with that last one. The student beat its oracle.
 

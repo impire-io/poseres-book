@@ -48,6 +48,8 @@ action is considered, the frames predict where the world would land
 scores those predicted outcomes. Understanding proposes; wanting
 disposes. The two stay in the separate rooms chapter 4 promised.
 
+![Understanding proposes, wanting disposes](figures/09-understanding-proposes-wanting-disposes.svg)
+
 ## Curiosity, measured
 
 The default drive I built first was curiosity. Not a straw man set up to
@@ -90,6 +92,8 @@ maximum coverage, minimum depth, a policy of guaranteed shallowness.
 Concentrated practice, the thing novelty-seeking structurally prevents,
 was the actual asset. Every hour of a finite life spent somewhere new
 is an hour not spent getting good at something.
+
+![Thin coverage versus deep practice](figures/09-thin-coverage-versus-deep-practice.svg)
 
 So the shipped drive became *competence*: prefer the familiar and the
 mastered, weighted by how well prediction is going there. Practice
@@ -136,6 +140,8 @@ best simply avoided, it wins nothing over competence. The worlds where
 it should pay, worlds that change under a mastered policy, are named and
 instrumented but not yet measured: a loose end I'll come back to rather
 than a detour worth taking now. That's the frontier in both senses.
+
+![The frontier's three signals](figures/09-frontier-three-signals.svg)
 
 I'll resist drawing life lessons from a pile of simulation runs,
 except to note the shape of the result, because it will be familiar:

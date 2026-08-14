@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1116" width="1200" height="1116" role="img" aria-label="A clockwise life cycle for one frame: born, protected, judged, evicted, around a central rule that frames are never edited.">
+  <rect x="1" y="1" width="1198" height="1114" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+
+  <!-- the ring, running clockwise -->
+  <circle cx="600" cy="540" r="250" fill="none" stroke="#cbc8da" stroke-width="10"/>
+  <polygon points="788.1,374.5 759.8,366.0 779.6,346.2" fill="#cbc8da"/>
+  <polygon points="765.5,728.1 774.0,699.8 793.8,719.6" fill="#cbc8da"/>
+  <polygon points="411.9,705.5 440.2,714.0 420.4,733.8" fill="#cbc8da"/>
+  <polygon points="434.5,351.9 426.0,380.2 406.2,360.4" fill="#cbc8da"/>
+
+  <!-- ===== TOP : Born ===== -->
+  <text x="600" y="96" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c">Born</text>
+  <rect x="430" y="118" width="130" height="64" rx="10" fill="#ffffff" stroke="#0f62c4" stroke-width="2.5"/>
+  <circle cx="460" cy="150" r="11" fill="#f8f7fb" stroke="#0f62c4" stroke-width="2"/>
+  <circle cx="495" cy="150" r="11" fill="#f8f7fb" stroke="#0f62c4" stroke-width="2"/>
+  <circle cx="530" cy="150" r="11" fill="#f8f7fb" stroke="#0f62c4" stroke-width="2"/>
+  <line x1="460" y1="150" x2="460" y2="142" stroke="#0f62c4" stroke-width="2"/>
+  <line x1="495" y1="150" x2="500.7" y2="144.3" stroke="#0f62c4" stroke-width="2"/>
+  <line x1="530" y1="150" x2="524.3" y2="144.3" stroke="#0f62c4" stroke-width="2"/>
+  <rect x="596" y="118" width="170" height="64" rx="10" fill="#ffffff" stroke="#0f62c4" stroke-width="2.5"/>
+  <circle cx="621" cy="150" r="11" fill="#f8f7fb" stroke="#0f62c4" stroke-width="2"/>
+  <circle cx="661" cy="150" r="11" fill="#f8f7fb" stroke="#0f62c4" stroke-width="2"/>
+  <circle cx="701" cy="150" r="11" fill="#f8f7fb" stroke="#0f62c4" stroke-width="2"/>
+  <circle cx="741" cy="150" r="11" fill="#f8f7fb" stroke="#0f62c4" stroke-width="2"/>
+  <line x1="621" y1="150" x2="626.7" y2="144.3" stroke="#0f62c4" stroke-width="2"/>
+  <line x1="661" y1="150" x2="661" y2="142" stroke="#0f62c4" stroke-width="2"/>
+  <line x1="701" y1="150" x2="695.3" y2="144.3" stroke="#0f62c4" stroke-width="2"/>
+  <line x1="741" y1="150" x2="749" y2="150" stroke="#0f62c4" stroke-width="2"/>
+  <line x1="772" y1="130" x2="788" y2="123" stroke="#0f62c4" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="774" y1="150" x2="792" y2="150" stroke="#0f62c4" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="772" y1="170" x2="788" y2="177" stroke="#0f62c4" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="600" y="226" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">spawned near the current best size &#8212; or on the spot,</text>
+  <text x="600" y="252" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">when no existing frame can express a sight</text>
+
+  <!-- ===== RIGHT : Protected ===== -->
+  <text x="1005" y="435" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c">Protected</text>
+  <circle cx="1005" cy="519" r="68" fill="none" stroke="#626779" stroke-width="2.5" stroke-dasharray="3 8" stroke-linecap="round"/>
+  <rect x="945" y="497" width="120" height="44" rx="8" fill="#ffffff" stroke="#0f62c4" stroke-width="2.5"/>
+  <circle cx="975" cy="519" r="9" fill="#f8f7fb" stroke="#0f62c4" stroke-width="2"/>
+  <circle cx="1005" cy="519" r="9" fill="#f8f7fb" stroke="#0f62c4" stroke-width="2"/>
+  <circle cx="1035" cy="519" r="9" fill="#f8f7fb" stroke="#0f62c4" stroke-width="2"/>
+  <line x1="975" y1="519" x2="975" y2="512.5" stroke="#0f62c4" stroke-width="2"/>
+  <line x1="1005" y1="519" x2="1009.6" y2="514.4" stroke="#0f62c4" stroke-width="2"/>
+  <line x1="1035" y1="519" x2="1030.4" y2="514.4" stroke="#0f62c4" stroke-width="2"/>
+  <text x="1005" y="615" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">a fixed childhood: cannot</text>
+  <text x="1005" y="641" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">be evicted no matter how</text>
+  <text x="1005" y="667" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">badly it scores</text>
+
+  <!-- ===== BOTTOM : Judged ===== -->
+  <text x="600" y="836" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c">Judged</text>
+  <line x1="470" y1="890" x2="730" y2="890" stroke="#1b1f2c" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 600 890 L 622 936 L 578 936 Z" fill="#ffffff" stroke="#1b1f2c" stroke-width="2.5" stroke-linejoin="round"/>
+  <line x1="580" y1="936" x2="620" y2="936" stroke="#1b1f2c" stroke-width="3"/>
+  <line x1="470" y1="890" x2="470" y2="920" stroke="#626779" stroke-width="2"/>
+  <line x1="730" y1="890" x2="730" y2="920" stroke="#626779" stroke-width="2"/>
+  <rect x="418" y="920" width="104" height="44" rx="8" fill="#ffffff" stroke="#0f62c4" stroke-width="2.5"/>
+  <circle cx="444" cy="942" r="9" fill="#f8f7fb" stroke="#0f62c4" stroke-width="2"/>
+  <circle cx="470" cy="942" r="9" fill="#f8f7fb" stroke="#0f62c4" stroke-width="2"/>
+  <circle cx="496" cy="942" r="9" fill="#f8f7fb" stroke="#0f62c4" stroke-width="2"/>
+  <line x1="444" y1="942" x2="448.6" y2="937.4" stroke="#0f62c4" stroke-width="2"/>
+  <line x1="470" y1="942" x2="470" y2="935.5" stroke="#0f62c4" stroke-width="2"/>
+  <line x1="496" y1="942" x2="491.4" y2="937.4" stroke="#0f62c4" stroke-width="2"/>
+  <path d="M 722 922 a 8 8 0 0 1 16 0" fill="none" stroke="#1b1f2c" stroke-width="2.5"/>
+  <path d="M 706 966 L 714 924 L 746 924 L 754 966 Z" fill="#e8edf5" stroke="#1b1f2c" stroke-width="2.5" stroke-linejoin="round"/>
+  <text x="730" y="992" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">the bar</text>
+  <text x="600" y="1034" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">prediction error, plus rent</text>
+  <text x="600" y="1060" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">for every knob</text>
+
+  <!-- ===== LEFT : Evicted ===== -->
+  <text x="192" y="484" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c">Evicted</text>
+  <rect x="112" y="500" width="160" height="64" rx="10" fill="#ffffff" stroke="#cbc8da" stroke-width="2.5" stroke-dasharray="7 6"/>
+  <circle cx="152" cy="532" r="10" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <circle cx="192" cy="532" r="10" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <circle cx="232" cy="532" r="10" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <line x1="152" y1="532" x2="152" y2="525" stroke="#cbc8da" stroke-width="2"/>
+  <line x1="192" y1="532" x2="197" y2="527" stroke="#cbc8da" stroke-width="2"/>
+  <line x1="232" y1="532" x2="227" y2="527" stroke="#cbc8da" stroke-width="2"/>
+  <text x="192" y="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">deleted, permanently</text>
+  <path d="M 344 618 C 290 664 176 692 86 700" fill="none" stroke="#626779" stroke-width="3.5"/>
+  <polygon points="70.1,701.4 94.9,686.2 97.1,712.0" fill="#626779"/>
+
+  <!-- ===== the rule at the centre ===== -->
+  <rect x="400" y="415" width="400" height="250" rx="14" fill="#ffffff" stroke="#c2410c" stroke-width="3"/>
+  <text x="600" y="456" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#c2410c">Nobody is ever edited.</text>
+  <text x="600" y="486" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#c2410c">A new size means a new rival,</text>
+  <text x="600" y="516" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#c2410c">not a resized frame.</text>
+  <rect x="444" y="560" width="120" height="56" rx="9" fill="#ffffff" stroke="#626779" stroke-width="2.5"/>
+  <circle cx="472" cy="588" r="10" fill="#f8f7fb" stroke="#626779" stroke-width="2"/>
+  <circle cx="504" cy="588" r="10" fill="#f8f7fb" stroke="#626779" stroke-width="2"/>
+  <circle cx="536" cy="588" r="10" fill="#f8f7fb" stroke="#626779" stroke-width="2"/>
+  <line x1="472" y1="588" x2="472" y2="581" stroke="#626779" stroke-width="2"/>
+  <line x1="504" y1="588" x2="509" y2="583" stroke="#626779" stroke-width="2"/>
+  <line x1="536" y1="588" x2="531" y2="583" stroke="#626779" stroke-width="2"/>
+  <rect x="604" y="560" width="152" height="56" rx="9" fill="#ffffff" stroke="#626779" stroke-width="2.5"/>
+  <circle cx="632" cy="588" r="10" fill="#f8f7fb" stroke="#626779" stroke-width="2"/>
+  <circle cx="664" cy="588" r="10" fill="#f8f7fb" stroke="#626779" stroke-width="2"/>
+  <circle cx="696" cy="588" r="10" fill="#f8f7fb" stroke="#626779" stroke-width="2"/>
+  <circle cx="728" cy="588" r="10" fill="#f8f7fb" stroke="#626779" stroke-width="2"/>
+  <line x1="632" y1="588" x2="637" y2="583" stroke="#626779" stroke-width="2"/>
+  <line x1="664" y1="588" x2="664" y2="581" stroke="#626779" stroke-width="2"/>
+  <line x1="696" y1="588" x2="691" y2="583" stroke="#626779" stroke-width="2"/>
+  <line x1="728" y1="588" x2="735" y2="588" stroke="#626779" stroke-width="2"/>
+
+  <!-- ===== outside the ring : crowding sharpens the bar ===== -->
+  <text x="985" y="772" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c">the more crowded the head,</text>
+  <text x="985" y="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c">the harsher the bar</text>
+  <rect x="894" y="826" width="54" height="36" rx="6" fill="#ffffff" stroke="#0f62c4" stroke-width="2"/>
+  <circle cx="910" cy="844" r="6" fill="#f8f7fb" stroke="#0f62c4" stroke-width="1.8"/>
+  <circle cx="932" cy="844" r="6" fill="#f8f7fb" stroke="#0f62c4" stroke-width="1.8"/>
+  <line x1="910" y1="844" x2="910" y2="839" stroke="#0f62c4" stroke-width="1.6"/>
+  <line x1="932" y1="844" x2="935.5" y2="840.5" stroke="#0f62c4" stroke-width="1.6"/>
+  <rect x="958" y="826" width="54" height="36" rx="6" fill="#ffffff" stroke="#0f62c4" stroke-width="2"/>
+  <circle cx="974" cy="844" r="6" fill="#f8f7fb" stroke="#0f62c4" stroke-width="1.8"/>
+  <circle cx="996" cy="844" r="6" fill="#f8f7fb" stroke="#0f62c4" stroke-width="1.8"/>
+  <line x1="974" y1="844" x2="977.5" y2="840.5" stroke="#0f62c4" stroke-width="1.6"/>
+  <line x1="996" y1="844" x2="996" y2="839" stroke="#0f62c4" stroke-width="1.6"/>
+  <rect x="1022" y="826" width="54" height="36" rx="6" fill="#ffffff" stroke="#0f62c4" stroke-width="2"/>
+  <circle cx="1038" cy="844" r="6" fill="#f8f7fb" stroke="#0f62c4" stroke-width="1.8"/>
+  <circle cx="1060" cy="844" r="6" fill="#f8f7fb" stroke="#0f62c4" stroke-width="1.8"/>
+  <line x1="1038" y1="844" x2="1034.5" y2="840.5" stroke="#0f62c4" stroke-width="1.6"/>
+  <line x1="1060" y1="844" x2="1060" y2="839" stroke="#0f62c4" stroke-width="1.6"/>
+  <path d="M 1030 868 C 1031 878 1031 884 1032 888" fill="none" stroke="#cbc8da" stroke-width="2"/>
+  <polygon points="1032,900 1025,886 1039,886" fill="#cbc8da"/>
+  <path d="M 872 924 a 7 7 0 0 1 14 0" fill="none" stroke="#1b1f2c" stroke-width="2.5"/>
+  <path d="M 858 966 L 866 926 L 892 926 L 900 966 Z" fill="#e8edf5" stroke="#1b1f2c" stroke-width="2.5" stroke-linejoin="round"/>
+  <line x1="920" y1="940" x2="972" y2="940" stroke="#626779" stroke-width="4"/>
+  <polygon points="972,931 992,940 972,949" fill="#626779"/>
+  <path d="M 1046 900 a 10 10 0 0 1 20 0" fill="none" stroke="#1b1f2c" stroke-width="2.5"/>
+  <path d="M 1012 966 L 1030 902 L 1082 902 L 1100 966 Z" fill="#e8edf5" stroke="#1b1f2c" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>

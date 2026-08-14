@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440">
+  <rect x="1" y="1" width="1198" height="438" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c" text-anchor="middle">
+    <text x="175.5" y="100">MON</text>
+    <text x="458.5" y="100">TUE</text>
+    <text x="741.5" y="100">WED</text>
+    <text x="1024.5" y="100">FRI</text>
+  </g>
+  <!-- MONDAY -->
+  <g transform="translate(50,126)">
+    <rect x="0" y="0" width="251" height="251" rx="8" fill="#a7c9a2" stroke="#cbc8da" stroke-width="2"/>
+    <path d="M 29 45 L 27 36 M 34 45 L 34 34 M 39 45 L 41 36 M 89 45 L 87 36 M 94 45 L 94 34 M 99 45 L 101 36 M 149 45 L 147 36 M 154 45 L 154 34 M 159 45 L 161 36 M 209 45 L 207 36 M 214 45 L 214 34 M 219 45 L 221 36 M 59 105 L 57 96 M 64 105 L 64 94 M 69 105 L 71 96 M 119 105 L 117 96 M 124 105 L 124 94 M 129 105 L 131 96 M 233 105 L 231 96 M 238 105 L 238 94 M 243 105 L 245 96 M 29 165 L 27 156 M 34 165 L 34 154 M 39 165 L 41 156 M 89 165 L 87 156 M 94 165 L 94 154 M 99 165 L 101 156 M 209 165 L 207 156 M 214 165 L 214 154 M 219 165 L 221 156 M 59 225 L 57 216 M 64 225 L 64 214 M 69 225 L 71 216 M 119 225 L 117 216 M 124 225 L 124 214 M 129 225 L 131 216 M 179 225 L 177 216 M 184 225 L 184 214 M 189 225 L 191 216 M 233 225 L 231 216 M 238 225 L 238 214 M 243 225 L 245 216" fill="none" stroke="#7fae7a" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="160" cy="125" r="33" fill="#7fae7a" fill-opacity="0.55"/>
+    <circle cx="160" cy="125" r="26" fill="#1b1f2c"/>
+    <path d="M 8 125 L 58 125" fill="none" stroke="#c2410c" stroke-width="3.5" stroke-dasharray="10 7" stroke-linecap="round"/>
+    <g stroke="#1b1f2c" stroke-width="2.5" stroke-linecap="round">
+      <line x1="126.0" y1="133.0" x2="126.0" y2="146.0"/>
+      <line x1="120.3" y1="130.7" x2="111.2" y2="139.8"/>
+      <line x1="118.0" y1="125.0" x2="105.0" y2="125.0"/>
+      <line x1="120.3" y1="119.3" x2="111.2" y2="110.2"/>
+      <line x1="126.0" y1="117.0" x2="126.0" y2="104.0"/>
+    </g>
+    <g transform="translate(84,125)">
+      <rect x="-12" y="-17.5" width="10" height="6" rx="2" fill="#1b1f2c"/>
+      <rect x="-12" y="11.5" width="10" height="6" rx="2" fill="#1b1f2c"/>
+      <rect x="4" y="-17.5" width="10" height="6" rx="2" fill="#1b1f2c"/>
+      <rect x="4" y="11.5" width="10" height="6" rx="2" fill="#1b1f2c"/>
+      <rect x="-20" y="-14" width="40" height="28" rx="12" fill="#ffffff" stroke="#1b1f2c" stroke-width="2.5"/>
+      <line x1="14" y1="-8" x2="14" y2="8" stroke="#1b1f2c" stroke-width="2.5" stroke-linecap="round"/>
+    </g>
+  </g>
+  <!-- TUESDAY -->
+  <g transform="translate(333,126)">
+    <rect x="0" y="0" width="251" height="251" rx="8" fill="#a7c9a2" stroke="#cbc8da" stroke-width="2"/>
+    <path d="M 29 45 L 27 36 M 34 45 L 34 34 M 39 45 L 41 36 M 89 45 L 87 36 M 94 45 L 94 34 M 99 45 L 101 36 M 149 45 L 147 36 M 154 45 L 154 34 M 159 45 L 161 36 M 209 45 L 207 36 M 214 45 L 214 34 M 219 45 L 221 36 M 59 105 L 57 96 M 64 105 L 64 94 M 69 105 L 71 96 M 119 105 L 117 96 M 124 105 L 124 94 M 129 105 L 131 96 M 233 105 L 231 96 M 238 105 L 238 94 M 243 105 L 245 96 M 29 165 L 27 156 M 34 165 L 34 154 M 39 165 L 41 156 M 89 165 L 87 156 M 94 165 L 94 154 M 99 165 L 101 156 M 209 165 L 207 156 M 214 165 L 214 154 M 219 165 L 221 156 M 59 225 L 57 216 M 64 225 L 64 214 M 69 225 L 71 216 M 119 225 L 117 216 M 124 225 L 124 214 M 129 225 L 131 216 M 179 225 L 177 216 M 184 225 L 184 214 M 189 225 L 191 216 M 233 225 L 231 216 M 238 225 L 238 214 M 243 225 L 245 216" fill="none" stroke="#7fae7a" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="160" cy="125" r="33" fill="#7fae7a" fill-opacity="0.55"/>
+    <circle cx="160" cy="125" r="26" fill="#1b1f2c"/>
+    <path d="M 8 125 L 68 125" fill="none" stroke="#c2410c" stroke-width="3.5" stroke-dasharray="10 7" stroke-linecap="round"/>
+    <circle cx="130" cy="125" r="7" fill="#1b1f2c" stroke="#ffffff" stroke-width="2.5"/>
+    <line x1="130" y1="138" x2="130" y2="182" stroke="#1b1f2c" stroke-width="1.5"/>
+    <rect x="101" y="184" width="58" height="25" rx="5" fill="#f8f7fb" fill-opacity="0.85"/>
+    <text x="130" y="202" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">noted</text>
+    <g transform="translate(92,125)">
+      <rect x="-12" y="-17.5" width="10" height="6" rx="2" fill="#1b1f2c"/>
+      <rect x="-12" y="11.5" width="10" height="6" rx="2" fill="#1b1f2c"/>
+      <rect x="4" y="-17.5" width="10" height="6" rx="2" fill="#1b1f2c"/>
+      <rect x="4" y="11.5" width="10" height="6" rx="2" fill="#1b1f2c"/>
+      <rect x="-20" y="-14" width="40" height="28" rx="12" fill="#ffffff" stroke="#1b1f2c" stroke-width="2.5"/>
+      <line x1="14" y1="-8" x2="14" y2="8" stroke="#1b1f2c" stroke-width="2.5" stroke-linecap="round"/>
+    </g>
+  </g>
+  <!-- WEDNESDAY -->
+  <g transform="translate(616,126)">
+    <rect x="0" y="0" width="251" height="251" rx="8" fill="#a7c9a2" stroke="#cbc8da" stroke-width="2"/>
+    <path d="M 29 45 L 27 36 M 34 45 L 34 34 M 39 45 L 41 36 M 89 45 L 87 36 M 94 45 L 94 34 M 99 45 L 101 36 M 149 45 L 147 36 M 154 45 L 154 34 M 159 45 L 161 36 M 209 45 L 207 36 M 214 45 L 214 34 M 219 45 L 221 36 M 59 105 L 57 96 M 64 105 L 64 94 M 69 105 L 71 96 M 119 105 L 117 96 M 124 105 L 124 94 M 129 105 L 131 96 M 233 105 L 231 96 M 238 105 L 238 94 M 243 105 L 245 96 M 29 165 L 27 156 M 34 165 L 34 154 M 39 165 L 41 156 M 89 165 L 87 156 M 94 165 L 94 154 M 99 165 L 101 156 M 209 165 L 207 156 M 214 165 L 214 154 M 219 165 L 221 156 M 59 225 L 57 216 M 64 225 L 64 214 M 69 225 L 71 216 M 119 225 L 117 216 M 124 225 L 124 214 M 129 225 L 131 216 M 179 225 L 177 216 M 184 225 L 184 214 M 189 225 L 191 216 M 233 225 L 231 216 M 238 225 L 238 214 M 243 225 L 245 216" fill="none" stroke="#7fae7a" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="160" cy="125" r="33" fill="#7fae7a" fill-opacity="0.55"/>
+    <circle cx="160" cy="125" r="26" fill="#1b1f2c"/>
+    <path d="M 8 125 C 52 125 86 133 110 148" fill="none" stroke="#c2410c" stroke-width="3.5" stroke-dasharray="10 7" stroke-linecap="round"/>
+    <g transform="translate(126,157) rotate(29)">
+      <rect x="-12" y="-17.5" width="10" height="6" rx="2" fill="#1b1f2c"/>
+      <rect x="-12" y="11.5" width="10" height="6" rx="2" fill="#1b1f2c"/>
+      <rect x="4" y="-17.5" width="10" height="6" rx="2" fill="#1b1f2c"/>
+      <rect x="4" y="11.5" width="10" height="6" rx="2" fill="#1b1f2c"/>
+      <rect x="-20" y="-14" width="40" height="28" rx="12" fill="#ffffff" stroke="#1b1f2c" stroke-width="2.5"/>
+      <line x1="14" y1="-8" x2="14" y2="8" stroke="#1b1f2c" stroke-width="2.5" stroke-linecap="round"/>
+    </g>
+  </g>
+  <!-- FRIDAY -->
+  <g transform="translate(899,126)">
+    <rect x="0" y="0" width="251" height="251" rx="8" fill="#a7c9a2" stroke="#cbc8da" stroke-width="2"/>
+    <path d="M 29 45 L 27 36 M 34 45 L 34 34 M 39 45 L 41 36 M 89 45 L 87 36 M 94 45 L 94 34 M 99 45 L 101 36 M 149 45 L 147 36 M 154 45 L 154 34 M 159 45 L 161 36 M 209 45 L 207 36 M 214 45 L 214 34 M 219 45 L 221 36 M 59 105 L 57 96 M 64 105 L 64 94 M 69 105 L 71 96 M 119 105 L 117 96 M 124 105 L 124 94 M 129 105 L 131 96 M 233 105 L 231 96 M 238 105 L 238 94 M 243 105 L 245 96 M 29 165 L 27 156 M 34 165 L 34 154 M 39 165 L 41 156 M 89 165 L 87 156 M 94 165 L 94 154 M 99 165 L 101 156 M 209 165 L 207 156 M 214 165 L 214 154 M 219 165 L 221 156 M 59 225 L 57 216 M 64 225 L 64 214 M 69 225 L 71 216 M 119 225 L 117 216 M 124 225 L 124 214 M 129 225 L 131 216 M 179 225 L 177 216 M 184 225 L 184 214 M 189 225 L 191 216 M 233 225 L 231 216 M 238 225 L 238 214 M 243 225 L 245 216" fill="none" stroke="#7fae7a" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="160" cy="125" r="33" fill="#7fae7a" fill-opacity="0.55"/>
+    <circle cx="160" cy="125" r="26" fill="#1b1f2c"/>
+    <path d="M 8 125 C 60 126 92 145 118 168 C 146 192 196 186 218 150 C 230 131 238 126 251 124" fill="none" stroke="#c2410c" stroke-width="3.5" stroke-dasharray="10 7" stroke-linecap="round"/>
+    <g transform="translate(206,164) rotate(-45)">
+      <rect x="-12" y="-17.5" width="10" height="6" rx="2" fill="#1b1f2c"/>
+      <rect x="-12" y="11.5" width="10" height="6" rx="2" fill="#1b1f2c"/>
+      <rect x="4" y="-17.5" width="10" height="6" rx="2" fill="#1b1f2c"/>
+      <rect x="4" y="11.5" width="10" height="6" rx="2" fill="#1b1f2c"/>
+      <rect x="-20" y="-14" width="40" height="28" rx="12" fill="#ffffff" stroke="#1b1f2c" stroke-width="2.5"/>
+      <line x1="14" y1="-8" x2="14" y2="8" stroke="#1b1f2c" stroke-width="2.5" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>

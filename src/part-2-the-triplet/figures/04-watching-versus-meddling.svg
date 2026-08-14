@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 570" width="1200" height="570" role="img" aria-label="Two mornings on one horizon: a rooster crowing as the sun rises, and the same rooster crated and silent as the sun rises anyway">
+  <rect x="1" y="1" width="1198" height="568" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c" text-anchor="middle">
+    <text x="332" y="110">Watching</text>
+    <text x="868" y="110">Meddling</text>
+  </g>
+
+  <!-- one horizon, shared -->
+  <line x1="64" y1="430" x2="1136" y2="430" stroke="#1b1f2c" stroke-width="2"/>
+
+  <!-- the sun, halfway up, identical on both mornings -->
+  <g stroke="#1b1f2c" stroke-width="3" fill="#ffffff" stroke-linecap="round">
+    <path d="M 152 430 A 48 48 0 0 1 248 430 Z"/>
+    <line x1="144" y1="430" x2="130" y2="430"/>
+    <line x1="160.4" y1="390.4" x2="150.5" y2="380.5"/>
+    <line x1="200" y1="374" x2="200" y2="360"/>
+    <line x1="239.6" y1="390.4" x2="249.5" y2="380.5"/>
+    <line x1="256" y1="430" x2="270" y2="430"/>
+
+    <path d="M 688 430 A 48 48 0 0 1 784 430 Z"/>
+    <line x1="680" y1="430" x2="666" y2="430"/>
+    <line x1="696.4" y1="390.4" x2="686.5" y2="380.5"/>
+    <line x1="736" y1="374" x2="736" y2="360"/>
+    <line x1="775.6" y1="390.4" x2="785.5" y2="380.5"/>
+    <line x1="792" y1="430" x2="806" y2="430"/>
+  </g>
+
+  <!-- the fence posts, identical -->
+  <g stroke="#1b1f2c" stroke-width="3" fill="#ffffff">
+    <rect x="420" y="330" width="20" height="100"/>
+    <rect x="956" y="330" width="20" height="100"/>
+  </g>
+
+  <!-- morning one: the rooster crows -->
+  <g stroke="#1b1f2c" fill="#ffffff" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 402 292 C 384 292 366 278 352 258 C 366 268 380 272 392 272 C 372 258 358 238 354 220 C 370 244 388 262 404 272 Z" stroke-width="3"/>
+    <line x1="422" y1="298" x2="422" y2="330" stroke-width="3"/>
+        <line x1="412" y1="330" x2="424" y2="330" stroke-width="3"/>
+    <line x1="438" y1="298" x2="438" y2="330" stroke-width="3"/>
+        <line x1="436" y1="330" x2="448" y2="330" stroke-width="3"/>
+    <path d="M 452 194 C 454 180 462 180 464 188 C 466 178 474 178 476 186 C 478 177 486 180 486 192 Z" stroke-width="2.5"/>
+    <path d="M 396 286 C 392 262 400 240 424 232 C 436 228 442 222 446 212 C 448 200 458 192 468 192 C 480 192 488 201 488 211 L 512 218 L 488 226 C 488 234 482 240 474 241 C 470 250 466 258 464 268 C 462 286 452 302 434 304 C 420 306 404 298 396 286 Z" stroke-width="3"/>
+    <path d="M 480 227 C 489 233 489 247 477 245" stroke-width="2.5"/>
+    <circle cx="471" cy="207" r="2.5" fill="#1b1f2c" stroke="none"/>
+  </g>
+  <g stroke="#1b1f2c" stroke-width="2.5" fill="none">
+    <path d="M 522 204 A 18 18 0 0 1 522 232"/>
+    <path d="M 536 197 A 26 26 0 0 1 536 239"/>
+    <path d="M 550 190 A 34 34 0 0 1 550 246"/>
+  </g>
+
+  <!-- morning two: the same rooster, crated, quiet -->
+  <g transform="translate(536,0)">
+    <g transform="translate(428,330) scale(0.8) translate(-428,-330)">
+      <g stroke="#1b1f2c" fill="#ffffff" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M 402 292 C 384 292 366 278 352 258 C 366 268 380 272 392 272 C 372 258 358 238 354 220 C 370 244 388 262 404 272 Z" stroke-width="3"/>
+        <line x1="422" y1="298" x2="422" y2="330" stroke-width="3"/>
+        <line x1="412" y1="330" x2="424" y2="330" stroke-width="3"/>
+        <line x1="438" y1="298" x2="438" y2="330" stroke-width="3"/>
+        <line x1="436" y1="330" x2="448" y2="330" stroke-width="3"/>
+        <path d="M 452 194 C 454 180 462 180 464 188 C 466 178 474 178 476 186 C 478 177 486 180 486 192 Z" stroke-width="2.5"/>
+        <path d="M 396 286 C 392 262 400 240 424 232 C 436 228 442 222 446 212 C 448 200 458 192 468 192 C 480 192 488 201 488 211 L 512 218 L 488 226 C 488 234 482 240 474 241 C 470 250 466 258 464 268 C 462 286 452 302 434 304 C 420 306 404 298 396 286 Z" stroke-width="3"/>
+        <path d="M 480 227 C 489 233 489 247 477 245" stroke-width="2.5"/>
+        <circle cx="471" cy="207" r="2.5" fill="#1b1f2c" stroke="none"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- the crate: an experimental control, not a punishment -->
+  <g stroke="#1b1f2c" fill="none" stroke-linecap="round">
+    <line x1="876" y1="265" x2="1052" y2="265" stroke-width="3"/>
+    <line x1="894" y1="200" x2="894" y2="330" stroke-width="3"/>
+    <line x1="923" y1="200" x2="923" y2="330" stroke-width="3"/>
+    <line x1="952" y1="200" x2="952" y2="330" stroke-width="3"/>
+    <line x1="982" y1="200" x2="982" y2="330" stroke-width="3"/>
+    <line x1="1011" y1="200" x2="1011" y2="330" stroke-width="3"/>
+    <rect x="876" y="200" width="176" height="130" stroke-width="3.5"/>
+  </g>
+
+  <!-- no crow -->
+  <g stroke="#1b1f2c" fill="none" stroke-linecap="round">
+    <path d="M 1080 250 A 18 18 0 0 1 1080 278" stroke-width="2.5"/>
+    <path d="M 1094 243 A 26 26 0 0 1 1094 285" stroke-width="2.5"/>
+    <line x1="1068" y1="234" x2="1120" y2="296" stroke-width="3"/>
+  </g>
+
+  <!-- the divider, and the act that crosses it -->
+  <line x1="600" y1="150" x2="600" y2="470" stroke="#626779" stroke-width="2" stroke-dasharray="8 6"/>
+  <g stroke="#c2410c" stroke-width="3" fill="#ffffff" stroke-linecap="round">
+    <rect x="586" y="320" width="40" height="14" rx="7"/>
+    <rect x="532" y="312" width="16" height="30" rx="5"/>
+    <rect x="546" y="306" width="42" height="42" rx="12"/>
+    <line x1="558" y1="326" x2="578" y2="326" stroke-width="2"/>
+  </g>
+  <rect x="540" y="356" width="92" height="30" fill="#f8f7fb"/>
+  <text x="586" y="378" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#c2410c">an act</text>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c" text-anchor="middle">
+    <text x="332" y="500">crow, then dawn — every single morning</text>
+    <text x="868" y="500">no crow — dawn arrives anyway</text>
+  </g>
+</svg>

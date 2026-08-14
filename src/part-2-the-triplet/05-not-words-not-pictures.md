@@ -43,6 +43,8 @@ the wall every watcher hits: to a watcher, "the crow causes the dawn" and
 "the crow merely comes first" look identical. You can't run the rooster
 experiment on a library. The library can't be surprised by you.
 
+![Two middles](figures/05-two-middles.svg)
+
 > **Under the hood: the passive loop, precisely.** LLM pretraining is
 > next-token prediction over a static corpus with teacher forcing: the
 > model's own outputs never influence the next input during training.
@@ -85,6 +87,8 @@ unless somewhere in the loop a word touches something that once splashed
 you. For you, "water" exits the dictionary and lands on a memory of your
 own body. For a system made only of text, the loop has no exit. There's
 nothing at the bottom.
+
+![The dictionary loop](figures/05-dictionary-loop.svg)
 
 ## Different question, different machine
 

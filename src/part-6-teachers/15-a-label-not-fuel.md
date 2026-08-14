@@ -87,6 +87,8 @@ it always arrives and never otherwise, and the expectation was
 already half-formed within the first five approvals: the first-five
 mean was 0.450. The frames never got that far in forty-five.
 
+![Praise arrives as a number](figures/15-praise-arrives-as-a-number.svg)
+
 Two readings sit inside the result. First, all 24 rows are identical
 to three decimals. The frames' expectation had been a lottery,
 because their random starting weights shape what their bottleneck
@@ -188,6 +190,8 @@ term pushes the bot away from its own praised loop. I call this the
 *post-approval hangover*: the measured backfire of making expected
 praise valuable, where the praised loop's own next steps all predict
 praise going away, so the bot avoids the loop that earned it.
+
+![The post-approval hangover](figures/15-the-post-approval-hangover.svg)
 
 The watch I had pre-registered was for the opposite disease.
 Sycophancy: praise-farming, the approval signal gamed, sticks

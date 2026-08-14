@@ -242,6 +242,8 @@ workshop, and the pointer advances when the bot gets within a block.
 Transport only. Digging and crafting at each stop stay the itch's
 job.
 
+![Recipe memory and the pointer](figures/16-recipe-memory-and-the-pointer.svg)
+
 Against the label's floor of zero, on the same cohort, with the same
 demonstrations: 24 of 24 pupils reached the stone. 3,129 cobblestone
 gain events across the arm.
@@ -315,6 +317,8 @@ arithmetic says it should die at about tick 4,250. The frontier
 drive's median survival, measured: 4,250. Nine predictions into this
 arc's ledger, not one of them had landed on its number rather than
 somewhere near it. This one did.
+
+![The stipend](figures/16-the-stipend.svg)
 
 The provisioned composition went from 10 of 24 alive to 24 of 24
 alive, with 24 of 24 still working, 2,304 sticks, unique positions at

@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 870" width="1200" height="870" role="img" aria-label="The same three-dial control panel shown at two moments: different sensor numbers arrive, the needles move, the panel does not change.">
+  <rect x="1" y="1" width="1198" height="868" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+
+  <!-- what the panel is -->
+  <text x="786" y="96" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c">the frame: three knobs</text>
+  <text x="786" y="126" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#626779">(its bet about how many the world has)</text>
+  <line x1="786" y1="142" x2="786" y2="164" stroke="#cbc8da" stroke-width="2"/>
+
+  <!-- ============ FIRST MOMENT ============ -->
+  <rect x="67" y="228" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="114" y="228" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="161" y="228" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="208" y="228" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="255" y="228" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="302" y="228" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="349" y="228" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="396" y="228" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="443" y="228" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="490" y="228" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <text x="88" y="259" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">42</text>
+  <text x="135" y="259" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">17</text>
+  <text x="182" y="259" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">08</text>
+  <text x="229" y="259" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">63</text>
+  <text x="276" y="259" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">55</text>
+  <text x="323" y="259" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">21</text>
+  <text x="370" y="259" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">39</text>
+  <text x="417" y="259" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">04</text>
+  <text x="464" y="259" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">76</text>
+  <text x="511" y="259" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">30</text>
+  <text x="299" y="320" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#626779">one sight: ten sensor numbers</text>
+
+  <line x1="556" y1="252" x2="606" y2="252" stroke="#626779" stroke-width="4"/>
+  <polygon points="606,243 626,252 606,261" fill="#626779"/>
+
+  <rect x="636" y="170" width="300" height="190" rx="16" fill="#ffffff" stroke="#0f62c4" stroke-width="3"/>
+  <circle cx="706" cy="252" r="32" fill="#f8f7fb" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="786" cy="252" r="32" fill="#f8f7fb" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="866" cy="252" r="32" fill="#f8f7fb" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="706" y1="252" x2="721.9" y2="231.5" stroke="#c2410c" stroke-width="4" stroke-linecap="round"/>
+  <line x1="786" y1="252" x2="760.3" y2="256.1" stroke="#c2410c" stroke-width="4" stroke-linecap="round"/>
+  <line x1="866" y1="252" x2="888.2" y2="238.4" stroke="#c2410c" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="706" cy="252" r="4.5" fill="#c2410c"/>
+  <circle cx="786" cy="252" r="4.5" fill="#c2410c"/>
+  <circle cx="866" cy="252" r="4.5" fill="#c2410c"/>
+  <text x="706" y="312" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">1</text>
+  <text x="786" y="312" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">2</text>
+  <text x="866" y="312" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">3</text>
+
+  <rect x="656" y="380" width="260" height="46" rx="8" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <text x="786" y="410" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#c2410c">0.42&#160;&#160;-1.10&#160;&#160;0.65</text>
+  <text x="786" y="456" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#626779">the pose: where the knobs</text>
+  <text x="786" y="484" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#626779">point right now</text>
+
+  <!-- ============ SECOND MOMENT ============ -->
+  <rect x="67" y="618" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="114" y="618" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="161" y="618" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="208" y="618" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="255" y="618" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="302" y="618" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="349" y="618" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="396" y="618" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="443" y="618" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="490" y="618" width="42" height="48" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <text x="88" y="649" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">18</text>
+  <text x="135" y="649" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">90</text>
+  <text x="182" y="649" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">27</text>
+  <text x="229" y="649" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">11</text>
+  <text x="276" y="649" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">68</text>
+  <text x="323" y="649" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">45</text>
+  <text x="370" y="649" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">02</text>
+  <text x="417" y="649" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">84</text>
+  <text x="464" y="649" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">59</text>
+  <text x="511" y="649" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">33</text>
+
+  <line x1="556" y1="642" x2="606" y2="642" stroke="#626779" stroke-width="4"/>
+  <polygon points="606,633 626,642 606,651" fill="#626779"/>
+
+  <rect x="636" y="560" width="300" height="190" rx="16" fill="#ffffff" stroke="#0f62c4" stroke-width="3"/>
+  <circle cx="706" cy="642" r="32" fill="#f8f7fb" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="786" cy="642" r="32" fill="#f8f7fb" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="866" cy="642" r="32" fill="#f8f7fb" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="706" y1="642" x2="680.6" y2="636.3" stroke="#c2410c" stroke-width="4" stroke-linecap="round"/>
+  <line x1="786" y1="642" x2="798.2" y2="619.0" stroke="#c2410c" stroke-width="4" stroke-linecap="round"/>
+  <line x1="866" y1="642" x2="890.2" y2="651.6" stroke="#c2410c" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="706" cy="642" r="4.5" fill="#c2410c"/>
+  <circle cx="786" cy="642" r="4.5" fill="#c2410c"/>
+  <circle cx="866" cy="642" r="4.5" fill="#c2410c"/>
+  <text x="706" y="702" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">1</text>
+  <text x="786" y="702" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">2</text>
+  <text x="866" y="702" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">3</text>
+
+  <rect x="656" y="770" width="260" height="46" rx="8" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <text x="786" y="800" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#c2410c">-0.86&#160;&#160;0.31&#160;&#160;1.24</text>
+
+  <!-- the bracket that holds the two moments together -->
+  <path d="M 970 170 q 12 0 12 12 v 266 q 0 12 12 12 q -12 0 -12 12 v 266 q 0 12 -12 12" fill="none" stroke="#626779" stroke-width="2.5"/>
+  <text x="1006" y="452" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c">same panel,</text>
+  <text x="1006" y="480" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c">new setting</text>
+</svg>

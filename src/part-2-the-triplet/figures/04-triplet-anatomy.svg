@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" width="1200" height="650" role="img" aria-label="Three panels: a hand gripping a spoon, the same hand opening, and the empty hand with a clatter below — one triplet">
+  <rect x="1" y="1" width="1198" height="648" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+
+  <defs>
+    <marker id="thick" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="4.5" markerHeight="4.5" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1b1f2c"/>
+    </marker>
+  </defs>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" text-anchor="middle">
+    <text x="240" y="150" fill="#1b1f2c">before</text>
+    <text x="600" y="150" fill="#c2410c">action</text>
+    <text x="960" y="150" fill="#1b1f2c">after</text>
+  </g>
+
+  <rect x="90" y="180" width="300" height="280" rx="12" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="450" y="180" width="300" height="280" rx="12" fill="#ffffff" stroke="#c2410c" stroke-width="3"/>
+  <rect x="810" y="180" width="300" height="280" rx="12" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+
+  <!-- before: a hand gripping a spoon -->
+  <g stroke="#1b1f2c" fill="#ffffff" stroke-linecap="round">
+    <line x1="222" y1="372" x2="300" y2="226" stroke-width="4"/>
+    <ellipse cx="306" cy="214" rx="15" ry="22" transform="rotate(28 306 214)" stroke-width="3"/>
+    <rect x="208" y="376" width="64" height="42" rx="10" stroke-width="3"/>
+    <rect x="190" y="298" width="100" height="82" rx="26" stroke-width="3"/>
+    <line x1="206" y1="306" x2="206" y2="372" stroke-width="2"/>
+    <line x1="228" y1="304" x2="228" y2="374" stroke-width="2"/>
+    <line x1="250" y1="304" x2="250" y2="374" stroke-width="2"/>
+    <rect x="194" y="330" width="64" height="20" rx="10" transform="rotate(-8 194 340)" stroke-width="3"/>
+  </g>
+
+  <!-- action: the same hand, fingers opened -->
+  <g stroke="#c2410c" fill="#ffffff" stroke-width="3">
+    <rect x="572" y="376" width="60" height="40" rx="10"/>
+    <rect x="526" y="330" width="44" height="17" rx="8.5" transform="rotate(22 570 338)"/>
+    <rect x="564" y="270" width="16" height="52" rx="8" transform="rotate(-16 572 322)"/>
+    <rect x="584" y="258" width="16" height="64" rx="8" transform="rotate(-5 592 322)"/>
+    <rect x="604" y="262" width="16" height="60" rx="8" transform="rotate(6 612 322)"/>
+    <rect x="624" y="276" width="16" height="46" rx="8" transform="rotate(17 632 322)"/>
+    <rect x="556" y="316" width="88" height="62" rx="16"/>
+  </g>
+  <g stroke="#c2410c" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M 664 300 A 40 40 0 0 1 664 356"/>
+    <path d="M 686 292 A 52 52 0 0 1 686 364"/>
+  </g>
+
+  <!-- after: the empty hand, and a clatter from below -->
+  <g stroke="#1b1f2c" fill="#ffffff" stroke-width="3">
+    <rect x="932" y="312" width="60" height="40" rx="10"/>
+    <rect x="886" y="266" width="44" height="17" rx="8.5" transform="rotate(22 930 274)"/>
+    <rect x="924" y="206" width="16" height="52" rx="8" transform="rotate(-16 932 258)"/>
+    <rect x="944" y="194" width="16" height="64" rx="8" transform="rotate(-5 952 258)"/>
+    <rect x="964" y="198" width="16" height="60" rx="8" transform="rotate(6 972 258)"/>
+    <rect x="984" y="212" width="16" height="46" rx="8" transform="rotate(17 992 258)"/>
+    <rect x="916" y="252" width="88" height="62" rx="16"/>
+  </g>
+  <g transform="translate(1030,404) scale(1.35) translate(-1030,-404)">
+    <polygon points="1030,390 1033,398.8 1042.1,397 1036,404 1042.1,411 1033,409.2 1030,418 1027,409.2 1017.9,411 1024,404 1017.9,397 1027,398.8" fill="#ffffff" stroke="#1b1f2c" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <g stroke="#1b1f2c" stroke-width="2.5" stroke-linecap="round">
+    <line x1="1006" y1="382" x2="996" y2="368"/>
+    <line x1="1030" y1="376" x2="1030" y2="358"/>
+    <line x1="1054" y1="382" x2="1064" y2="368"/>
+  </g>
+
+  <g stroke="#1b1f2c" stroke-width="5" marker-end="url(#thick)">
+    <line x1="398" y1="320" x2="440" y2="320"/>
+    <line x1="758" y1="320" x2="800" y2="320"/>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c" text-anchor="middle">
+    <text x="240" y="500">what I sensed</text>
+    <text x="600" y="500">what I did</text>
+    <text x="960" y="500">what I sensed next</text>
+  </g>
+
+  <path d="M 90 533 L 90 545 L 1110 545 L 1110 533" fill="none" stroke="#626779" stroke-width="2"/>
+  <text x="600" y="582" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c">one triplet</text>
+</svg>

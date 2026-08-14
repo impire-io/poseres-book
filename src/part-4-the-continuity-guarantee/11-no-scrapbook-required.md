@@ -27,6 +27,8 @@ nothing there to answer with. It keeps what ten thousand hours of
 practice leaves in a person: not a recording of the hours, the shape they
 built.
 
+![The whole estate](figures/11-the-whole-estate.svg)
+
 ## Why losing the past is affordable
 
 Throwing away experience sounds reckless, so here are the jobs the
@@ -79,6 +81,8 @@ A learned lifetime can be handed to someone else. That is the seed of
 something this book will come back to: if a brain is a file, a *trained*
 brain is a shareable artifact.
 
+![Paused, not remembering](figures/11-paused-not-remembering.svg)
+
 > **Under the hood: the snapshot contract.** Feature 003: the full
 > learned state (frame tensors, drive bookkeeping, counters, summary
 > accumulators, RNG state, config in force) serializes to a versioned,
@@ -120,6 +124,8 @@ never let the system grade its own homework)[^rules]: *sorting is a
 mutation.* A byte-identity claim is only as strong as the
 orders it preserves, and "the same numbers" is not the same as "the
 same computation".
+
+![Sorting is a mutation](figures/11-sorting-is-a-mutation.svg)
 
 Why does a last-bit crack deserve a hunt at all? Because the guarantee
 is the instrument. Every result in this book (every refuted

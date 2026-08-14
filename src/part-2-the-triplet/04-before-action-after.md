@@ -25,6 +25,8 @@ labels, no instructions. Those would be someone else's knowledge. The
 triplet stream is the machine's own life, and my claim is that it's
 enough.
 
+![Triplet anatomy](figures/04-triplet-anatomy.svg)
+
 ## One triplet, in numbers
 
 These words need pinning down before we go further, because the whole
@@ -74,6 +76,8 @@ crow causes the dawn" and "the crow merely comes first" look identical.
 They are identical in the watching. The only way to tell them apart is to
 reach into the world and meddle. Keep the rooster quiet for one morning
 and see whether the sun still rises.
+
+![Watching versus meddling](figures/04-watching-versus-meddling.svg)
 
 That's what the middle of the triplet is. An action is a deliberate poke
 at the world, and the "after" is the world's reply to your poke rather

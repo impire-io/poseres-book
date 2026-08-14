@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 850" width="1200" height="850">
+  <rect x="1" y="1" width="1198" height="848" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+  <defs>
+    <marker id="ah-ink" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="11" refX="13" refY="5.5" orient="auto"><path d="M0 0 L14 5.5 L0 11 Z" fill="#1b1f2c"/></marker>
+    <marker id="ah-amber" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="11" refX="13" refY="5.5" orient="auto"><path d="M0 0 L14 5.5 L0 11 Z" fill="#c2410c"/></marker>
+    <marker id="ah-blue" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="11" refX="13" refY="5.5" orient="auto"><path d="M0 0 L14 5.5 L0 11 Z" fill="#0f62c4"/></marker>
+  </defs>
+
+  <text x="406" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c">Understanding (learns)</text>
+  <text x="977" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c">Wanting (does not learn)</text>
+
+  <rect x="56" y="130" width="700" height="430" rx="12" fill="none" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="810" y="130" width="334" height="430" rx="12" fill="#e8edf5" stroke="#cbc8da" stroke-width="2"/>
+
+  <rect x="776" y="108" width="14" height="512" rx="7" fill="#cbc8da"/>
+  <rect x="772" y="224" width="22" height="24" fill="#f8f7fb"/>
+  <rect x="772" y="292" width="22" height="24" fill="#f8f7fb"/>
+  <rect x="772" y="360" width="22" height="24" fill="#f8f7fb"/>
+
+  <rect x="84" y="228" width="220" height="150" rx="10" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <text x="194" y="266" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="600" fill="#1b1f2c">candidate actions</text>
+  <text x="194" y="302" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">forward</text>
+  <text x="194" y="330" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">turn left</text>
+  <text x="194" y="358" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">turn right</text>
+
+  <path d="M306 304 H348" fill="none" stroke="#1b1f2c" stroke-width="2.5" marker-end="url(#ah-ink)"/>
+
+  <text x="421" y="198" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c">frames</text>
+
+  <rect x="346" y="210" width="150" height="56" rx="9" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="388" cy="238" r="9" fill="none" stroke="#1b1f2c" stroke-width="1.8"/><path d="M388 238 L393 232" stroke="#1b1f2c" stroke-width="1.8"/>
+  <circle cx="423" cy="238" r="9" fill="none" stroke="#1b1f2c" stroke-width="1.8"/><path d="M423 238 L418 232" stroke="#1b1f2c" stroke-width="1.8"/>
+  <circle cx="458" cy="238" r="9" fill="none" stroke="#1b1f2c" stroke-width="1.8"/><path d="M458 238 L462 244" stroke="#1b1f2c" stroke-width="1.8"/>
+
+  <rect x="354" y="276" width="150" height="56" rx="9" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="396" cy="304" r="9" fill="none" stroke="#1b1f2c" stroke-width="1.8"/><path d="M396 304 L392 298" stroke="#1b1f2c" stroke-width="1.8"/>
+  <circle cx="431" cy="304" r="9" fill="none" stroke="#1b1f2c" stroke-width="1.8"/><path d="M431 304 L437 306" stroke="#1b1f2c" stroke-width="1.8"/>
+  <circle cx="466" cy="304" r="9" fill="none" stroke="#1b1f2c" stroke-width="1.8"/><path d="M466 304 L466 298" stroke="#1b1f2c" stroke-width="1.8"/>
+
+  <rect x="362" y="342" width="150" height="56" rx="9" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="404" cy="370" r="9" fill="none" stroke="#1b1f2c" stroke-width="1.8"/><path d="M404 370 L409 375" stroke="#1b1f2c" stroke-width="1.8"/>
+  <circle cx="439" cy="370" r="9" fill="none" stroke="#1b1f2c" stroke-width="1.8"/><path d="M439 370 L434 365" stroke="#1b1f2c" stroke-width="1.8"/>
+  <circle cx="474" cy="370" r="9" fill="none" stroke="#1b1f2c" stroke-width="1.8"/><path d="M474 370 L479 368" stroke="#1b1f2c" stroke-width="1.8"/>
+
+  <path d="M506 304 C526 304, 532 236, 552 236" fill="none" stroke="#1b1f2c" stroke-width="2.5" marker-end="url(#ah-ink)"/>
+  <path d="M506 304 H552" fill="none" stroke="#1b1f2c" stroke-width="2.5" marker-end="url(#ah-ink)"/>
+  <path d="M506 304 C526 304, 532 372, 552 372" fill="none" stroke="#1b1f2c" stroke-width="2.5" marker-end="url(#ah-ink)"/>
+
+  <rect x="556" y="206" width="140" height="60" rx="8" fill="#ffffff" stroke="#cbc8da" stroke-width="1.8"/>
+  <circle cx="586" cy="236" r="12" fill="none" stroke="#0f62c4" stroke-width="2"/>
+  <path d="M612 228 H676 M612 244 H676" stroke="#cbc8da" stroke-width="4" stroke-linecap="round"/>
+
+  <rect x="556" y="274" width="140" height="60" rx="8" fill="#ffffff" stroke="#cbc8da" stroke-width="1.8"/>
+  <circle cx="586" cy="304" r="12" fill="none" stroke="#0f62c4" stroke-width="2"/>
+  <path d="M612 296 H676 M612 312 H676" stroke="#cbc8da" stroke-width="4" stroke-linecap="round"/>
+
+  <rect x="556" y="342" width="140" height="60" rx="8" fill="#ffffff" stroke="#cbc8da" stroke-width="1.8"/>
+  <circle cx="586" cy="372" r="12" fill="none" stroke="#0f62c4" stroke-width="2"/>
+  <path d="M612 364 H676 M612 380 H676" stroke="#cbc8da" stroke-width="4" stroke-linecap="round"/>
+
+  <path d="M556 410 V402 H696 V410 M626 402 V420" fill="none" stroke="#cbc8da" stroke-width="1.6"/>
+  <text x="626" y="444" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">where the world</text>
+  <text x="626" y="470" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">would land if</text>
+  <text x="626" y="496" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">I did this</text>
+
+  <path d="M698 236 H834" fill="none" stroke="#1b1f2c" stroke-width="2.5" marker-end="url(#ah-ink)"/>
+  <path d="M698 304 H834" fill="none" stroke="#1b1f2c" stroke-width="2.5" marker-end="url(#ah-ink)"/>
+  <path d="M698 372 H834" fill="none" stroke="#1b1f2c" stroke-width="2.5" marker-end="url(#ah-ink)"/>
+
+  <rect x="838" y="218" width="256" height="200" rx="10" fill="#ffffff" stroke="#1b1f2c" stroke-width="4"/>
+  <rect x="846" y="226" width="240" height="184" rx="6" fill="none" stroke="#1b1f2c" stroke-width="1.6"/>
+  <path d="M952 250 A14 14 0 0 1 980 250" fill="none" stroke="#1b1f2c" stroke-width="3.5"/>
+  <rect x="946" y="250" width="40" height="32" rx="5" fill="#ffffff" stroke="#1b1f2c" stroke-width="2.5"/>
+  <circle cx="966" cy="264" r="3.5" fill="#1b1f2c"/>
+  <text x="966" y="328" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c">the drive:</text>
+  <text x="966" y="360" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">scores each predicted</text>
+  <text x="966" y="388" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">outcome</text>
+
+  <text x="966" y="458" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">no path by which</text>
+  <text x="966" y="484" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">experience can change</text>
+  <text x="966" y="510" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">what it wants</text>
+  <path d="M848 492 C824 500, 806 512, 794 522" fill="none" stroke="#cbc8da" stroke-width="1.6"/>
+
+  <path d="M437 530 H770" fill="none" stroke="#0f62c4" stroke-width="2.5" marker-end="url(#ah-blue)"/>
+  <path d="M762 520 L782 540 M782 520 L762 540" stroke="#be123c" stroke-width="3.5" stroke-linecap="round"/>
+
+  <path d="M518 673 H461 Q437 673 437 649 L437 400" fill="none" stroke="#0f62c4" stroke-width="2.5" marker-end="url(#ah-blue)"/>
+  <text x="452" y="618" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#0f62c4">experience</text>
+
+  <rect x="520" y="640" width="200" height="66" rx="10" fill="#ffffff" stroke="#0f62c4" stroke-width="2.5"/>
+  <text x="620" y="681" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#0f62c4">the world</text>
+
+  <rect x="920" y="640" width="224" height="66" rx="10" fill="#ffffff" stroke="#c2410c" stroke-width="2.5"/>
+  <text x="1032" y="681" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#c2410c">the action taken</text>
+
+  <path d="M1096 328 H1112 Q1120 328 1120 336 L1120 636" fill="none" stroke="#c2410c" stroke-width="2.5" marker-end="url(#ah-amber)"/>
+  <path d="M918 673 H726" fill="none" stroke="#c2410c" stroke-width="2.5" marker-end="url(#ah-amber)"/>
+
+  <text x="600" y="790" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c">understanding proposes; wanting disposes</text>
+</svg>

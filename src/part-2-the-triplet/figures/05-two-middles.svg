@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 930" width="1200" height="930" role="img" aria-label="Two rows comparing a body that acts with a reader of text; only the acting middle changes what arrives next.">
+  <rect x="1" y="1" width="1198" height="928" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+
+  <!-- column headers -->
+  <text x="230" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">before</text>
+  <text x="600" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">middle</text>
+  <text x="970" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">after</text>
+
+  <!-- ================= ROW 1 : a body that acts ================= -->
+  <text x="100" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c">A body that acts</text>
+
+  <text x="785" y="182" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#c2410c">the world replies to you</text>
+  <path d="M 600 250 C 600 190 970 190 970 242" fill="none" stroke="#c2410c" stroke-width="4"/>
+  <polygon points="961,238 970,258 979,238" fill="#c2410c"/>
+
+  <!-- row 1, box 1 : rover facing a wall -->
+  <rect x="100" y="250" width="260" height="200" rx="12" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="320" y="280" width="16" height="140" fill="#cbc8da" stroke="#1b1f2c" stroke-width="2"/>
+  <rect x="150" y="340" width="90" height="56" rx="12" fill="#ffffff" stroke="#1b1f2c" stroke-width="2.5"/>
+  <rect x="160" y="330" width="22" height="10" rx="3" fill="#1b1f2c"/>
+  <rect x="212" y="330" width="22" height="10" rx="3" fill="#1b1f2c"/>
+  <rect x="160" y="396" width="22" height="10" rx="3" fill="#1b1f2c"/>
+  <rect x="212" y="396" width="22" height="10" rx="3" fill="#1b1f2c"/>
+  <line x1="248" y1="344" x2="248" y2="392" stroke="#1b1f2c" stroke-width="5" stroke-linecap="round"/>
+  <line x1="240" y1="368" x2="248" y2="368" stroke="#1b1f2c" stroke-width="3"/>
+
+  <!-- row 1 structural arrows -->
+  <line x1="374" y1="350" x2="446" y2="350" stroke="#cbc8da" stroke-width="4"/>
+  <polygon points="446,342 464,350 446,358" fill="#cbc8da"/>
+  <line x1="744" y1="350" x2="816" y2="350" stroke="#cbc8da" stroke-width="4"/>
+  <polygon points="816,342 834,350 816,358" fill="#cbc8da"/>
+
+  <!-- row 1, middle : the act -->
+  <rect x="470" y="250" width="260" height="200" rx="12" fill="#c2410c" stroke="#c2410c" stroke-width="2"/>
+  <line x1="525" y1="330" x2="638" y2="330" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+  <polygon points="636,314 675,330 636,346" fill="#ffffff"/>
+  <text x="600" y="402" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#ffffff">act</text>
+
+  <!-- row 1, box 3 : the same rover, closer to the wall -->
+  <rect x="840" y="250" width="260" height="200" rx="12" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="1060" y="280" width="16" height="140" fill="#cbc8da" stroke="#1b1f2c" stroke-width="2"/>
+  <rect x="935" y="340" width="90" height="56" rx="12" fill="#ffffff" stroke="#1b1f2c" stroke-width="2.5"/>
+  <rect x="945" y="330" width="22" height="10" rx="3" fill="#1b1f2c"/>
+  <rect x="997" y="330" width="22" height="10" rx="3" fill="#1b1f2c"/>
+  <rect x="945" y="396" width="22" height="10" rx="3" fill="#1b1f2c"/>
+  <rect x="997" y="396" width="22" height="10" rx="3" fill="#1b1f2c"/>
+  <line x1="1033" y1="344" x2="1033" y2="392" stroke="#1b1f2c" stroke-width="5" stroke-linecap="round"/>
+  <line x1="1025" y1="368" x2="1033" y2="368" stroke="#1b1f2c" stroke-width="3"/>
+
+  <!-- ================= ROW 2 : a reader of text ================= -->
+  <text x="100" y="525" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c">A reader of text</text>
+
+  <text x="785" y="560" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#626779">guessing differently changes nothing</text>
+  <line x1="702" y1="602" x2="852" y2="602" stroke="#626779" stroke-width="4"/>
+  <polygon points="852,594 870,602 852,610" fill="#626779"/>
+  <line x1="769" y1="586" x2="801" y2="618" stroke="#1b1f2c" stroke-width="2.5"/>
+  <line x1="801" y1="586" x2="769" y2="618" stroke="#1b1f2c" stroke-width="2.5"/>
+
+  <!-- row 2, box 1 : an open book -->
+  <rect x="100" y="635" width="260" height="200" rx="12" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <path d="M 150 702 L 226 694 L 226 778 L 150 786 Z" fill="#ffffff" stroke="#1b1f2c" stroke-width="2.5"/>
+  <path d="M 310 702 L 234 694 L 234 778 L 310 786 Z" fill="#ffffff" stroke="#1b1f2c" stroke-width="2.5"/>
+  <line x1="230" y1="694" x2="230" y2="780" stroke="#1b1f2c" stroke-width="2.5"/>
+  <line x1="162" y1="716" x2="216" y2="710" stroke="#cbc8da" stroke-width="3"/>
+  <line x1="162" y1="732" x2="216" y2="726" stroke="#cbc8da" stroke-width="3"/>
+  <line x1="162" y1="748" x2="216" y2="742" stroke="#cbc8da" stroke-width="3"/>
+  <line x1="162" y1="764" x2="200" y2="760" stroke="#cbc8da" stroke-width="3"/>
+  <line x1="244" y1="710" x2="298" y2="716" stroke="#cbc8da" stroke-width="3"/>
+  <line x1="244" y1="726" x2="298" y2="732" stroke="#cbc8da" stroke-width="3"/>
+  <line x1="244" y1="742" x2="298" y2="748" stroke="#cbc8da" stroke-width="3"/>
+  <line x1="244" y1="758" x2="282" y2="763" stroke="#cbc8da" stroke-width="3"/>
+
+  <!-- row 2 structural arrows -->
+  <line x1="374" y1="735" x2="446" y2="735" stroke="#cbc8da" stroke-width="4"/>
+  <polygon points="446,727 464,735 446,743" fill="#cbc8da"/>
+  <line x1="744" y1="735" x2="816" y2="735" stroke="#cbc8da" stroke-width="4"/>
+  <polygon points="816,727 834,735 816,743" fill="#cbc8da"/>
+
+  <!-- row 2, middle : the guess -->
+  <rect x="470" y="635" width="260" height="200" rx="12" fill="#cbc8da" stroke="#626779" stroke-width="2"/>
+  <text x="600" y="745" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c">guess</text>
+
+  <!-- row 2, box 3 : the next page, already printed -->
+  <rect x="840" y="635" width="260" height="200" rx="12" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <path d="M 890 702 L 966 694 L 966 778 L 890 786 Z" fill="#ffffff" stroke="#1b1f2c" stroke-width="2.5"/>
+  <path d="M 1050 702 L 974 694 L 974 778 L 1050 786 Z" fill="#ffffff" stroke="#1b1f2c" stroke-width="2.5"/>
+  <line x1="970" y1="694" x2="970" y2="780" stroke="#1b1f2c" stroke-width="2.5"/>
+  <line x1="902" y1="716" x2="956" y2="710" stroke="#cbc8da" stroke-width="3"/>
+  <line x1="902" y1="732" x2="956" y2="726" stroke="#cbc8da" stroke-width="3"/>
+  <line x1="902" y1="748" x2="956" y2="742" stroke="#cbc8da" stroke-width="3"/>
+  <line x1="902" y1="764" x2="940" y2="760" stroke="#cbc8da" stroke-width="3"/>
+  <line x1="984" y1="710" x2="1038" y2="716" stroke="#cbc8da" stroke-width="3"/>
+  <line x1="984" y1="726" x2="1038" y2="732" stroke="#cbc8da" stroke-width="3"/>
+  <line x1="984" y1="742" x2="1038" y2="748" stroke="#cbc8da" stroke-width="3"/>
+  <line x1="984" y1="758" x2="1022" y2="763" stroke="#cbc8da" stroke-width="3"/>
+  <path d="M 1043 804 L 1043 796 a 12 12 0 0 1 24 0 L 1067 804" fill="none" stroke="#626779" stroke-width="3"/>
+  <rect x="1036" y="804" width="38" height="26" rx="5" fill="#ffffff" stroke="#626779" stroke-width="3"/>
+  <circle cx="1055" cy="817" r="3.5" fill="#626779"/>
+  <text x="1000" y="872" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#626779">fixed years ago</text>
+</svg>

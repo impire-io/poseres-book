@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" width="1200" height="650" role="img" aria-label="A two-by-two crafting grid holding a jumble that forms no recipe, an empty output slot, and a hand pressing a take button.">
+  <rect x="1" y="1" width="1198" height="648" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+
+  <!-- the two-by-two grid -->
+  <rect x="120" y="150" width="132" height="132" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="3"/>
+  <rect x="266" y="150" width="132" height="132" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="3"/>
+  <rect x="120" y="296" width="132" height="132" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="3"/>
+  <rect x="266" y="296" width="132" height="132" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="3"/>
+
+  <!-- slot 1: a block of dirt -->
+  <rect x="154" y="174" width="64" height="64" fill="#ffffff" stroke="#1b1f2c" stroke-width="3"/>
+  <rect x="154" y="174" width="64" height="15" fill="#a7c9a2" stroke="#1b1f2c" stroke-width="3"/>
+  <circle cx="172" cy="208" r="3" fill="#cbc8da"/>
+  <circle cx="196" cy="220" r="3" fill="#cbc8da"/>
+  <circle cx="200" cy="200" r="3" fill="#cbc8da"/>
+  <text x="186" y="268" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">dirt</text>
+
+  <!-- slot 2: a small sapling -->
+  <circle cx="318" cy="200" r="14" fill="#a7c9a2" stroke="#7fae7a" stroke-width="3"/>
+  <circle cx="344" cy="196" r="12" fill="#a7c9a2" stroke="#7fae7a" stroke-width="3"/>
+  <circle cx="332" cy="180" r="13" fill="#a7c9a2" stroke="#7fae7a" stroke-width="3"/>
+  <line x1="332" y1="208" x2="332" y2="244" stroke="#1b1f2c" stroke-width="4"/>
+  <text x="332" y="268" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">sapling</text>
+
+  <!-- slot 3: a wheat seed -->
+  <ellipse cx="172" cy="360" rx="7" ry="12" fill="#ffffff" stroke="#1b1f2c" stroke-width="3" transform="rotate(-18 172 360)"/>
+  <ellipse cx="188" cy="348" rx="7" ry="12" fill="#ffffff" stroke="#1b1f2c" stroke-width="3" transform="rotate(6 188 348)"/>
+  <ellipse cx="202" cy="362" rx="7" ry="12" fill="#ffffff" stroke="#1b1f2c" stroke-width="3" transform="rotate(24 202 362)"/>
+  <text x="186" y="414" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">wheat seed</text>
+
+  <!-- slot 4: a coiled leash -->
+  <circle cx="332" cy="356" r="27" fill="none" stroke="#626779" stroke-width="5"/>
+  <circle cx="332" cy="356" r="15" fill="none" stroke="#626779" stroke-width="5"/>
+  <path d="M 359 356 C 372 356 374 372 364 380" fill="none" stroke="#626779" stroke-width="5" stroke-linecap="round"/>
+  <text x="332" y="414" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">leash</text>
+
+  <!-- arrow to the output slot -->
+  <line x1="422" y1="289" x2="512" y2="289" stroke="#1b1f2c" stroke-width="4"/>
+  <polygon points="512,275 540,289 512,303" fill="#1b1f2c"/>
+
+  <!-- the output slot: permanently empty -->
+  <rect x="560" y="223" width="132" height="132" rx="6" fill="#ffffff" stroke="#cbc8da" stroke-width="3" stroke-dasharray="11 9"/>
+
+  <!-- repeat motion arcs, behind the hand -->
+  <path d="M 848 190 C 812 210, 812 240, 848 260" fill="none" stroke="#626779" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 836 176 C 786 202, 786 250, 836 276" fill="none" stroke="#626779" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- the blocky hand on the take button -->
+  <g transform="rotate(12 950 200)">
+    <rect x="956" y="96" width="96" height="68" rx="6" fill="#e3e1ec" stroke="#1b1f2c" stroke-width="3"/>
+    <rect x="884" y="142" width="118" height="76" rx="18" fill="#e3e1ec" stroke="#1b1f2c" stroke-width="3"/>
+    <line x1="916" y1="166" x2="984" y2="166" stroke="#626779" stroke-width="2" stroke-linecap="round"/>
+    <line x1="916" y1="184" x2="984" y2="184" stroke="#626779" stroke-width="2" stroke-linecap="round"/>
+    <line x1="916" y1="202" x2="984" y2="202" stroke="#626779" stroke-width="2" stroke-linecap="round"/>
+    <rect x="880" y="150" width="48" height="22" rx="11" fill="#e3e1ec" stroke="#1b1f2c" stroke-width="3" transform="rotate(-22 904 161)"/>
+    <rect x="880" y="206" width="30" height="64" rx="13" fill="#e3e1ec" stroke="#1b1f2c" stroke-width="3"/>
+  </g>
+  <rect x="810" y="254" width="230" height="76" rx="10" fill="#ffffff" stroke="#1b1f2c" stroke-width="3"/>
+  <text x="925" y="300" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c">take the offer</text>
+
+  <!-- the tallies -->
+  <text x="600" y="520" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">222,305 presses</text>
+  <text x="600" y="556" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">0 steps with anything on offer</text>
+</svg>

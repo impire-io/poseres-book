@@ -11,6 +11,8 @@ old skills are gone. Lean the other way and it keeps adding to itself until
 it's an unusable hoard. Most of the field's history is people falling off
 one cliff while backing away from the other.
 
+![The two cliffs](figures/02-the-two-cliffs.svg)
+
 Let's look down each one.
 
 ## The first cliff: overwriting
@@ -110,6 +112,8 @@ I'd written the survival bar so that the more crowded the population got,
 the *easier* it became to survive. My anti-hoarding mechanism rewarded
 hoarding. Run v3 forever and it hoards forever, while its own report card
 says everything is fine.
+
+![Prototype v3: population runaway](figures/02-v3-population-runaway.svg)
 
 That last part is the detail that changed how I work. Worse than the bloat
 was the cover-up: the system graded itself in a way that hid the bloat.

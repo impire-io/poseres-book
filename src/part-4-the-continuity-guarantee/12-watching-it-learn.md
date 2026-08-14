@@ -41,6 +41,8 @@ price-optimal answer for what this sensor stream will pay for at this
 budget. You are watching the book's central argument happen in well
 under five minutes.
 
+![The rover page](figures/12-the-rover-page.svg)
+
 One discipline behind the screen deserves its paragraph, because it's
 the homework law (never let the system grade its own homework) wearing
 its last disguise.[^homework-law] The viewer *observes without
@@ -85,6 +87,8 @@ teleport to a starting pose between episodes. The engine boots the
 world exactly once and learns from one unbroken stream, with every
 mechanism from Parts 3 and 4 carried over.
 
+![One seam, many worlds](figures/12-one-seam-many-worlds.svg)
+
 Continuous mode also produced a finding I didn't ask for: run unbroken,
 the *reference* world (the synthetic one every validated result was
 measured on) drifts into a saturated corner and learning collapses.
@@ -116,6 +120,8 @@ infinity for "no hit" and negative infinity for "below minimum range."
 Those non-finite values marched straight through the pipeline and
 poisoned every accumulated error statistic. The dashboard looked
 healthy; the numbers were garbage.
+
+![The lidar that reported infinity](figures/12-the-lidar-that-reported-infinity.svg)
 
 The fix was boring in the best way: the adapter now rejects non-finite
 deliveries loudly, and the example clamps its lidar to the sensor's own

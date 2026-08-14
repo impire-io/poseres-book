@@ -74,6 +74,8 @@ of the right size comes straight back. So v4 split the two roles: the
 gate still controls what you learn from, and it no longer controls
 what you're graded on. *Which events* count matters.
 
+![Where, and which](figures/07-where-and-which.svg)
+
 **Cheat three: charge me no rent.** Even with the first two holes
 sealed, one drift remains, and it runs the opposite direction. Add a
 knob to any frame and its measured error will never go up. It will
@@ -155,6 +157,8 @@ every one of eight seeds, a long-lived resident frame formed and held.
 The population self-limited far under its cap. The runaway growth that
 had haunted the scaled runs stalled. Neither fix works without the other,
 and I have the failed single-fix runs on record to prove it.
+
+![Honesty needs a new bar](figures/07-honesty-needs-a-new-bar.svg)
 
 > **Under the hood: the fair-judge experiment.** `score_window_steps = K`:
 > survival EMAs advance only on the first K steps of each episode

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 570" width="1200" height="570">
+  <rect x="1" y="1" width="1198" height="568" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+
+  <text x="370" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">knobs the brain settled on</text>
+
+  <!-- the world's true size, read as ground truth: dashed gold -->
+  <line x1="370" y1="146" x2="830" y2="146" stroke="#96570a" stroke-width="2" stroke-dasharray="10 7"/>
+  <text x="374" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#96570a">the world's actual size: 20</text>
+
+  <!-- axes -->
+  <line x1="370" y1="120" x2="370" y2="400" stroke="#1b1f2c" stroke-width="1.5"/>
+  <line x1="370" y1="400" x2="830" y2="400" stroke="#1b1f2c" stroke-width="1.5"/>
+
+  <line x1="364" y1="400" x2="370" y2="400" stroke="#1b1f2c" stroke-width="1.5"/>
+  <line x1="364" y1="336" x2="370" y2="336" stroke="#1b1f2c" stroke-width="1.5"/>
+  <line x1="364" y1="273" x2="370" y2="273" stroke="#1b1f2c" stroke-width="1.5"/>
+  <line x1="364" y1="209" x2="370" y2="209" stroke="#1b1f2c" stroke-width="1.5"/>
+  <text x="356" y="406" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">0</text>
+  <text x="356" y="342" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">5</text>
+  <text x="356" y="279" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">10</text>
+  <text x="356" y="215" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">15</text>
+
+  <line x1="399" y1="400" x2="399" y2="406" stroke="#1b1f2c" stroke-width="1.5"/>
+  <line x1="543" y1="400" x2="543" y2="406" stroke="#1b1f2c" stroke-width="1.5"/>
+  <line x1="715" y1="400" x2="715" y2="406" stroke="#1b1f2c" stroke-width="1.5"/>
+  <line x1="787" y1="400" x2="787" y2="406" stroke="#1b1f2c" stroke-width="1.5"/>
+  <text x="399" y="430" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">2</text>
+  <text x="543" y="430" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">12</text>
+  <text x="715" y="430" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">24</text>
+  <text x="787" y="430" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">29</text>
+
+  <text x="600" y="466" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">protected childhood (cycles)</text>
+
+  <!-- the measured answer -->
+  <polyline points="399,340 543,327 715,315 787,264" fill="none" stroke="#c2410c" stroke-width="3"/>
+  <circle cx="399" cy="340" r="5" fill="#c2410c"/>
+  <circle cx="543" cy="327" r="5" fill="#c2410c"/>
+  <circle cx="715" cy="315" r="5" fill="#c2410c"/>
+  <circle cx="787" cy="264" r="5" fill="#c2410c"/>
+  <text x="399" y="326" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#c2410c">4.7</text>
+  <text x="543" y="313" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#c2410c">5.7</text>
+  <text x="715" y="301" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#c2410c">6.7</text>
+  <text x="787" y="250" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#c2410c">10.7</text>
+
+  <text x="600" y="510" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">turn one dial, and the answer moves with it</text>
+</svg>

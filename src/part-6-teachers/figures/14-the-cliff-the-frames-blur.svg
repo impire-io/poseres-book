@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 110 1200 580" width="1200" height="580" role="img" aria-label="One dig over twelve ticks: the true crack signal steps up and falls off a cliff, the frames predict a smooth band that rounds the cliff away, the event head tracks the jump.">
+  <rect x="1" y="111" width="1198" height="578" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+
+  <!-- axes -->
+  <line x1="160" y1="170" x2="160" y2="560" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="160" y1="560" x2="790" y2="560" stroke="#1b1f2c" stroke-width="2"/>
+  <text x="110" y="365" text-anchor="middle" transform="rotate(-90 110 365)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c">how cracked the block is (0 to 1)</text>
+
+  <line x1="180" y1="560" x2="180" y2="567" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="228" y1="560" x2="228" y2="567" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="276" y1="560" x2="276" y2="567" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="324" y1="560" x2="324" y2="567" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="372" y1="560" x2="372" y2="567" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="420" y1="560" x2="420" y2="567" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="468" y1="560" x2="468" y2="567" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="516" y1="560" x2="516" y2="567" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="564" y1="560" x2="564" y2="567" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="612" y1="560" x2="612" y2="567" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="660" y1="560" x2="660" y2="567" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="708" y1="560" x2="708" y2="567" stroke="#1b1f2c" stroke-width="2"/>
+  <text x="180" y="592" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">1</text>
+  <text x="228" y="592" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">2</text>
+  <text x="276" y="592" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">3</text>
+  <text x="324" y="592" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">4</text>
+  <text x="372" y="592" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">5</text>
+  <text x="420" y="592" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">6</text>
+  <text x="468" y="592" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">7</text>
+  <text x="516" y="592" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">8</text>
+  <text x="564" y="592" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">9</text>
+  <text x="612" y="592" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">10</text>
+  <text x="660" y="592" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">11</text>
+  <text x="708" y="592" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">12</text>
+  <text x="444" y="632" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c">one dig: twelve ticks</text>
+
+  <!-- what the frames predict: a soft band that never reaches either extreme -->
+  <path d="M 180 492 C 280 476, 380 410, 520 350 C 600 316, 656 306, 690 320 C 712 330, 722 366, 730 396" fill="none" stroke="#0f62c4" stroke-opacity="0.32" stroke-width="22" stroke-linecap="round"/>
+
+  <!-- the true signal -->
+  <path d="M 180 528 L 228 528 L 228 495 L 276 495 L 276 463 L 324 463 L 324 430 L 372 430 L 372 398 L 420 398 L 420 365 L 468 365 L 468 333 L 516 333 L 516 300 L 564 300 L 564 268 L 612 268 L 612 235 L 660 235 L 660 203 L 708 203 L 708 560" fill="none" stroke="#1b1f2c" stroke-width="4"/>
+
+  <!-- what the event head predicts -->
+  <path d="M 183 521 L 231 521 L 231 488 L 279 488 L 279 456 L 327 456 L 327 423 L 375 423 L 375 391 L 423 391 L 423 358 L 471 358 L 471 326 L 519 326 L 519 293 L 567 293 L 567 261 L 615 261 L 615 228 L 663 228 L 663 196 L 711 196 L 711 553" fill="none" stroke="#c2410c" stroke-width="3"/>
+
+  <!-- the frames, labelled where they blur -->
+  <text x="200" y="186" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#0f62c4">what the frames predict — smooth,<tspan x="200" dy="1.3em">and it rounds the cliff away</tspan></text>
+  <text x="200" y="248" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#0f62c4">frames: typical error 0.0612</text>
+  <line x1="212" y1="262" x2="192" y2="488" stroke="#0f62c4" stroke-width="2"/>
+
+  <!-- the event head, labelled at the jump -->
+  <text x="766" y="186" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#c2410c">what the event head predicts —<tspan x="766" dy="1.3em">one model per action, sharp at</tspan><tspan x="766" dy="1.3em">the jump</tspan></text>
+  <text x="766" y="292" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#c2410c">event head: typical error 0.0081</text>
+  <line x1="762" y1="320" x2="726" y2="320" stroke="#c2410c" stroke-width="2"/>
+  <polygon points="726,314 714,320 726,326" fill="#c2410c"/>
+
+  <!-- one tick of digging, drawn to scale -->
+  <line x1="232" y1="528" x2="292" y2="528" stroke="#626779" stroke-width="2" stroke-dasharray="8 6"/>
+  <line x1="232" y1="528" x2="232" y2="560" stroke="#626779" stroke-width="2"/>
+  <line x1="292" y1="528" x2="292" y2="560" stroke="#626779" stroke-width="2"/>
+  <text x="300" y="496" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">one tick of digging is worth 0.083 —<tspan x="300" dy="1.3em">anything blurrier than this cannot</tspan><tspan x="300" dy="1.3em">rank the steps</tspan></text>
+
+  <!-- what waits at the bottom of the cliff -->
+  <rect x="725" y="495" width="38" height="26" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="3"/>
+  <ellipse cx="763" cy="508" rx="8" ry="13" fill="#ffffff" stroke="#1b1f2c" stroke-width="3"/>
+  <ellipse cx="763" cy="508" rx="3" ry="6" fill="none" stroke="#626779" stroke-width="2"/>
+  <line x1="731" y1="503" x2="753" y2="503" stroke="#626779" stroke-width="1.5"/>
+  <line x1="731" y1="513" x2="753" y2="513" stroke="#626779" stroke-width="1.5"/>
+  <line x1="795" y1="582" x2="768" y2="528" stroke="#626779" stroke-width="2"/>
+  <text x="790" y="600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">the block breaks: cracks vanish,<tspan x="790" dy="1.3em">a log lands in the pocket</tspan></text>
+</svg>

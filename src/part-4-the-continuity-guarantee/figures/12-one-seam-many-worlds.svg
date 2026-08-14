@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="One engine behind a single body interface, with four different worlds plugging into it.">
+  <rect x="1" y="1" width="1198" height="898" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+
+  <text x="425" y="100" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c">the body interface: sensors in, actuators out</text>
+
+  <!-- the seam -->
+  <rect x="405" y="130" width="50" height="720" rx="6" fill="#e8edf5" stroke="#cbc8da" stroke-width="2"/>
+
+  <!-- the one engine -->
+  <rect x="55" y="430" width="330" height="120" rx="10" fill="#ffffff" stroke="#1b1f2c" stroke-width="2.5"/>
+  <text x="220" y="480" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c">the same engine, unchanged,</text>
+  <text x="220" y="510" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c">in every case</text>
+  <line x1="385" y1="490" x2="405" y2="490" stroke="#1b1f2c" stroke-width="2.5"/>
+
+  <!-- sockets and plugs -->
+  <rect x="423" y="184" width="32" height="32" rx="3" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="455" y1="193" x2="467" y2="193" stroke="#1b1f2c" stroke-width="3"/>
+  <line x1="455" y1="207" x2="467" y2="207" stroke="#1b1f2c" stroke-width="3"/>
+  <rect x="467" y="187" width="28" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+
+  <rect x="423" y="364" width="32" height="32" rx="3" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="455" y1="373" x2="467" y2="373" stroke="#1b1f2c" stroke-width="3"/>
+  <line x1="455" y1="387" x2="467" y2="387" stroke="#1b1f2c" stroke-width="3"/>
+  <rect x="467" y="367" width="28" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+
+  <rect x="423" y="564" width="32" height="32" rx="3" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="455" y1="573" x2="467" y2="573" stroke="#1b1f2c" stroke-width="3"/>
+  <line x1="455" y1="587" x2="467" y2="587" stroke="#1b1f2c" stroke-width="3"/>
+  <rect x="467" y="567" width="28" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+
+  <rect x="423" y="754" width="32" height="32" rx="3" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="455" y1="763" x2="467" y2="763" stroke="#1b1f2c" stroke-width="3"/>
+  <line x1="455" y1="777" x2="467" y2="777" stroke="#1b1f2c" stroke-width="3"/>
+  <rect x="467" y="757" width="28" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+
+  <!-- WORLD 1: the demo rover -->
+  <line x1="495" y1="200" x2="618" y2="200" stroke="#1b1f2c" stroke-width="2"/>
+  <rect x="620" y="140" width="120" height="120" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <rect x="645" y="165" width="26" height="16" fill="#1b1f2c"/>
+  <rect x="690" y="215" width="28" height="14" fill="#1b1f2c"/>
+  <polyline points="668,214 652,228 636,242 642,254" fill="none" stroke="#cbc8da" stroke-width="1.5" stroke-dasharray="2 5"/>
+  <line x1="696" y1="197" x2="717" y2="140" stroke="#0f62c4" stroke-width="1.2"/>
+  <line x1="696" y1="197" x2="740" y2="145" stroke="#0f62c4" stroke-width="1.2"/>
+  <line x1="696" y1="197" x2="740" y2="172" stroke="#0f62c4" stroke-width="1.2"/>
+  <line x1="696" y1="197" x2="740" y2="189" stroke="#0f62c4" stroke-width="1.2"/>
+  <line x1="696" y1="197" x2="740" y2="205" stroke="#0f62c4" stroke-width="1.2"/>
+  <g transform="rotate(-30 682 205)">
+    <rect x="671" y="197" width="22" height="16" rx="5" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+    <rect x="694" y="196" width="4" height="18" rx="2" fill="#1b1f2c"/>
+  </g>
+  <text x="780" y="206" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">the demo rover</text>
+
+  <!-- WORLD 2: any Gymnasium game -->
+  <line x1="495" y1="380" x2="655" y2="380" stroke="#1b1f2c" stroke-width="2"/>
+  <text x="586" y="326" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#be123c">stays at the door</text>
+  <rect x="503" y="346" width="8" height="76" fill="#1b1f2c"/>
+  <rect x="539" y="346" width="8" height="76" fill="#1b1f2c"/>
+  <rect x="499" y="338" width="52" height="10" rx="2" fill="#1b1f2c"/>
+  <line x1="491" y1="424" x2="559" y2="424" stroke="#626779" stroke-width="2"/>
+  <circle cx="586" cy="380" r="34" fill="#ffffff" stroke="#be123c" stroke-width="2.5"/>
+  <text x="586" y="387" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" fill="#be123c">reward</text>
+  <line x1="650" y1="437" x2="750" y2="437" stroke="#cbc8da" stroke-width="2"/>
+  <rect x="668" y="400" width="64" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="684" cy="428" r="7" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="716" cy="428" r="7" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="700" y1="402" x2="716" y2="348" stroke="#1b1f2c" stroke-width="4"/>
+  <circle cx="717" cy="344" r="5" fill="#1b1f2c"/>
+  <text x="780" y="348" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">any Gymnasium game — CartPole</text>
+  <text x="780" y="374" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">and hundreds of cousins, about</text>
+  <text x="780" y="400" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">fifty lines of adapter</text>
+
+  <!-- WORLD 3: a real robot over ROS2 -->
+  <line x1="495" y1="580" x2="618" y2="580" stroke="#1b1f2c" stroke-width="2"/>
+  <path d="M 640 566 Q 632 580 640 594" fill="none" stroke="#cbc8da" stroke-width="2"/>
+  <path d="M 628 560 Q 618 580 628 600" fill="none" stroke="#cbc8da" stroke-width="2"/>
+  <path d="M 676 534 Q 692 524 708 534" fill="none" stroke="#626779" stroke-width="2"/>
+  <polygon points="708,534 700,530 702,540" fill="#626779"/>
+  <rect x="678" y="540" width="28" height="16" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <rect x="650" y="560" width="80" height="42" rx="8" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <rect x="730" y="568" width="14" height="16" rx="3" fill="#1b1f2c"/>
+  <circle cx="668" cy="606" r="10" fill="#ffffff" stroke="#626779" stroke-width="2"/>
+  <line x1="661" y1="599" x2="675" y2="613" stroke="#626779" stroke-width="1.5"/>
+  <line x1="675" y1="599" x2="661" y2="613" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="712" cy="606" r="10" fill="#ffffff" stroke="#626779" stroke-width="2"/>
+  <rect x="720" y="514" width="24" height="18" rx="3" fill="#ffffff" stroke="#c2410c" stroke-width="2"/>
+  <line x1="732" y1="534" x2="732" y2="550" stroke="#c2410c" stroke-width="2"/>
+  <polygon points="732,558 726,548 738,548" fill="#c2410c"/>
+  <text x="780" y="528" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">a real robot over ROS2 — every</text>
+  <text x="780" y="554" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">topic a sensor, every command</text>
+  <text x="780" y="580" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">channel an actuator</text>
+  <text x="780" y="616" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">snap a sensor onto a running</text>
+  <text x="780" y="642" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">robot; the components resize</text>
+  <text x="780" y="668" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">without forgetting</text>
+
+  <!-- WORLD 4: a world that cannot be reset -->
+  <line x1="495" y1="770" x2="628" y2="770" stroke="#1b1f2c" stroke-width="2"/>
+  <path d="M 685 686 C 675 700 695 708 685 722" fill="none" stroke="#0f62c4" stroke-width="2.5"/>
+  <polygon points="685,730 679,718 691,718" fill="#0f62c4"/>
+  <rect x="630" y="730" width="110" height="76" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="660" cy="754" r="11" fill="none" stroke="#cbc8da" stroke-width="2" stroke-dasharray="4 4"/>
+  <line x1="648" y1="780" x2="722" y2="780" stroke="#cbc8da" stroke-width="2"/>
+  <line x1="648" y1="792" x2="722" y2="792" stroke="#cbc8da" stroke-width="2"/>
+  <text x="780" y="748" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">a world that cannot be reset —</text>
+  <text x="780" y="774" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">booted once, one unbroken</text>
+  <text x="780" y="800" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">stream</text>
+</svg>

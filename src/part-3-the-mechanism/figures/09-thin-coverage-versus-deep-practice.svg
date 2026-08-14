@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750">
+  <rect x="1" y="1" width="1198" height="748" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+
+  <text x="314" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c">Prefer whatever is new</text>
+  <text x="886" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c">Prefer what you're getting good at</text>
+
+  <g transform="translate(64,148)">
+    <rect x="0" y="0" width="500" height="500" rx="12" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+
+    <circle cx="72" cy="72" r="17" fill="#a7c9a2" stroke="#7fae7a" stroke-width="1.5"/>
+    <circle cx="112" cy="58" r="17" fill="#a7c9a2" stroke="#7fae7a" stroke-width="1.5"/>
+    <circle cx="152" cy="84" r="17" fill="#a7c9a2" stroke="#7fae7a" stroke-width="1.5"/>
+    <circle cx="80" cy="114" r="17" fill="#a7c9a2" stroke="#7fae7a" stroke-width="1.5"/>
+    <circle cx="122" cy="102" r="17" fill="#a7c9a2" stroke="#7fae7a" stroke-width="1.5"/>
+    <circle cx="158" cy="128" r="17" fill="#a7c9a2" stroke="#7fae7a" stroke-width="1.5"/>
+    <circle cx="98" cy="146" r="17" fill="#a7c9a2" stroke="#7fae7a" stroke-width="1.5"/>
+
+    <path d="M300 140 C300 104, 336 84, 376 86 C420 88, 446 112, 444 140 C442 170, 408 192, 368 190 C328 188, 300 170, 300 140 Z" fill="#e8edf5" stroke="#0f62c4" stroke-width="2"/>
+    <path d="M326 132 q16 -9 32 0" fill="none" stroke="#0f62c4" stroke-width="1.6" stroke-opacity="0.55"/>
+    <path d="M396 158 q16 -9 32 0" fill="none" stroke="#0f62c4" stroke-width="1.6" stroke-opacity="0.55"/>
+
+    <polygon points="72,244 96,230 108,250 86,262" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+    <polygon points="112,234 138,228 146,248 120,256" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+    <polygon points="78,276 104,266 114,286 88,292" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+    <polygon points="124,268 150,264 156,284 130,290" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+    <polygon points="56,262 74,254 80,270 60,274" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+    <polygon points="152,246 170,240 176,258 158,262" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+
+    <path d="M254 276 C254 240, 298 218, 350 220 C406 222, 452 242, 452 276 C452 312, 406 332, 350 330 C296 328, 254 310, 254 276 Z" fill="#a7c9a2" fill-opacity="0.4" stroke="#7fae7a" stroke-width="1.6"/>
+    <path d="M300 274 V262 M330 288 V276 M370 268 V256 M400 292 V280 M340 306 V294" stroke="#7fae7a" stroke-width="1.6"/>
+
+    <path d="M296 446 C334 400, 394 382, 438 390 C460 394, 472 402, 480 412" fill="none" stroke="#626779" stroke-width="1.6"/>
+    <path d="M314 454 C348 416, 396 402, 434 410 C454 414, 466 422, 476 432" fill="none" stroke="#626779" stroke-width="1.6"/>
+    <path d="M332 462 C360 436, 398 424, 430 430 C448 434, 460 440, 470 448" fill="none" stroke="#626779" stroke-width="1.6"/>
+
+    <path d="M14 156 C44 128, 70 108, 100 104 C176 96, 268 104, 330 126 C366 140, 392 156, 384 188 C376 220, 356 244, 352 278 C348 310, 330 318, 294 314 C236 306, 168 290, 124 276 C104 270, 76 282, 62 306 C44 338, 48 380, 78 408 C128 456, 250 470, 340 448 C400 434, 452 430, 486 422" fill="none" stroke="#c2410c" stroke-opacity="0.42" stroke-width="2.5"/>
+
+    <ellipse cx="86" cy="124" rx="3.5" ry="5.5" fill="#c2410c" fill-opacity="0.3" transform="rotate(-20 86 124)"/>
+    <ellipse cx="94" cy="136" rx="3.5" ry="5.5" fill="#c2410c" fill-opacity="0.3" transform="rotate(-20 94 136)"/>
+    <ellipse cx="410" cy="166" rx="3.5" ry="5.5" fill="#c2410c" fill-opacity="0.3" transform="rotate(14 410 166)"/>
+    <ellipse cx="418" cy="178" rx="3.5" ry="5.5" fill="#c2410c" fill-opacity="0.3" transform="rotate(14 418 178)"/>
+    <ellipse cx="346" cy="262" rx="3.5" ry="5.5" fill="#c2410c" fill-opacity="0.3" transform="rotate(-6 346 262)"/>
+    <ellipse cx="354" cy="274" rx="3.5" ry="5.5" fill="#c2410c" fill-opacity="0.3" transform="rotate(-6 354 274)"/>
+    <ellipse cx="140" cy="262" rx="3.5" ry="5.5" fill="#c2410c" fill-opacity="0.3" transform="rotate(28 140 262)"/>
+    <ellipse cx="150" cy="254" rx="3.5" ry="5.5" fill="#c2410c" fill-opacity="0.3" transform="rotate(28 150 254)"/>
+    <ellipse cx="248" cy="440" rx="3.5" ry="5.5" fill="#c2410c" fill-opacity="0.3" transform="rotate(-34 248 440)"/>
+    <ellipse cx="260" cy="446" rx="3.5" ry="5.5" fill="#c2410c" fill-opacity="0.3" transform="rotate(-34 260 446)"/>
+
+    <text x="100" y="196" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">grove</text>
+    <text x="336" y="176" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">pond</text>
+    <text x="136" y="340" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">rocky patch</text>
+    <text x="350" y="356" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">open field</text>
+    <text x="388" y="486" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">hillside</text>
+
+    <rect x="218" y="14" width="268" height="66" rx="8" fill="#f8f7fb" stroke="#cbc8da" stroke-width="1.6"/>
+    <text x="232" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">one lifetime's worth</text>
+    <text x="232" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">of steps</text>
+  </g>
+
+  <g transform="translate(636,148)">
+    <rect x="0" y="0" width="500" height="500" rx="12" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+
+    <circle cx="72" cy="72" r="17" fill="#a7c9a2" stroke="#7fae7a" stroke-width="1.5"/>
+    <circle cx="112" cy="58" r="17" fill="#a7c9a2" stroke="#7fae7a" stroke-width="1.5"/>
+    <circle cx="152" cy="84" r="17" fill="#a7c9a2" stroke="#7fae7a" stroke-width="1.5"/>
+    <circle cx="80" cy="114" r="17" fill="#a7c9a2" stroke="#7fae7a" stroke-width="1.5"/>
+    <circle cx="122" cy="102" r="17" fill="#a7c9a2" stroke="#7fae7a" stroke-width="1.5"/>
+    <circle cx="158" cy="128" r="17" fill="#a7c9a2" stroke="#7fae7a" stroke-width="1.5"/>
+    <circle cx="98" cy="146" r="17" fill="#a7c9a2" stroke="#7fae7a" stroke-width="1.5"/>
+
+    <path d="M300 140 C300 104, 336 84, 376 86 C420 88, 446 112, 444 140 C442 170, 408 192, 368 190 C328 188, 300 170, 300 140 Z" fill="#e8edf5" stroke="#0f62c4" stroke-width="2"/>
+    <path d="M326 132 q16 -9 32 0" fill="none" stroke="#0f62c4" stroke-width="1.6" stroke-opacity="0.55"/>
+    <path d="M396 158 q16 -9 32 0" fill="none" stroke="#0f62c4" stroke-width="1.6" stroke-opacity="0.55"/>
+
+    <polygon points="72,244 96,230 108,250 86,262" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+    <polygon points="112,234 138,228 146,248 120,256" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+    <polygon points="78,276 104,266 114,286 88,292" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+    <polygon points="124,268 150,264 156,284 130,290" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+    <polygon points="56,262 74,254 80,270 60,274" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+    <polygon points="152,246 170,240 176,258 158,262" fill="#cbc8da" stroke="#626779" stroke-width="1.4"/>
+
+    <path d="M254 276 C254 240, 298 218, 350 220 C406 222, 452 242, 452 276 C452 312, 406 332, 350 330 C296 328, 254 310, 254 276 Z" fill="#a7c9a2" fill-opacity="0.4" stroke="#7fae7a" stroke-width="1.6"/>
+    <path d="M300 274 V262 M330 288 V276 M370 268 V256 M400 292 V280 M340 306 V294" stroke="#7fae7a" stroke-width="1.6"/>
+
+    <path d="M296 446 C334 400, 394 382, 438 390 C460 394, 472 402, 480 412" fill="none" stroke="#626779" stroke-width="1.6"/>
+    <path d="M314 454 C348 416, 396 402, 434 410 C454 414, 466 422, 476 432" fill="none" stroke="#626779" stroke-width="1.6"/>
+    <path d="M332 462 C360 436, 398 424, 430 430 C448 434, 460 440, 470 448" fill="none" stroke="#626779" stroke-width="1.6"/>
+
+    <path d="M46 100 C46 62, 78 44, 112 46 C150 48, 168 74, 164 108 C160 142, 130 160, 98 156 C64 152, 46 132, 46 100 Z" fill="#cbc8da" fill-opacity="0.45"/>
+    <path d="M280 274 C280 236, 316 214, 356 216 C402 218, 424 240, 422 274 C420 310, 388 330, 348 328 C306 326, 280 306, 280 274 Z" fill="#cbc8da" fill-opacity="0.45"/>
+
+    <text x="100" y="196" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">grove</text>
+    <text x="336" y="176" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">pond</text>
+    <text x="136" y="340" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">rocky patch</text>
+    <text x="350" y="356" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">open field</text>
+    <text x="388" y="486" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">hillside</text>
+
+    <ellipse cx="105" cy="102" rx="46" ry="34" transform="rotate(-18 105 102)" fill="none" stroke="#c2410c" stroke-width="8" stroke-linecap="round"/>
+    <ellipse cx="112" cy="96" rx="38" ry="42" transform="rotate(24 112 96)" fill="none" stroke="#c2410c" stroke-width="8" stroke-linecap="round"/>
+    <ellipse cx="96" cy="112" rx="42" ry="30" transform="rotate(8 96 112)" fill="none" stroke="#c2410c" stroke-width="8" stroke-linecap="round"/>
+
+    <ellipse cx="350" cy="272" rx="62" ry="42" transform="rotate(-12 350 272)" fill="none" stroke="#c2410c" stroke-width="8" stroke-linecap="round"/>
+    <ellipse cx="358" cy="264" rx="52" ry="48" transform="rotate(22 358 264)" fill="none" stroke="#c2410c" stroke-width="8" stroke-linecap="round"/>
+    <ellipse cx="340" cy="284" rx="56" ry="36" transform="rotate(6 340 284)" fill="none" stroke="#c2410c" stroke-width="8" stroke-linecap="round"/>
+
+    <path d="M138 128 C190 168, 250 210, 296 246" fill="none" stroke="#c2410c" stroke-width="8" stroke-linecap="round"/>
+    <path d="M132 136 C186 176, 248 218, 292 254" fill="none" stroke="#c2410c" stroke-width="8" stroke-linecap="round"/>
+
+    <rect x="218" y="14" width="268" height="66" rx="8" fill="#f8f7fb" stroke="#cbc8da" stroke-width="1.6"/>
+    <text x="232" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">one lifetime's worth</text>
+    <text x="232" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">of steps</text>
+  </g>
+
+  <text x="314" y="690" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">maximum coverage, minimum depth</text>
+  <text x="886" y="690" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">concentrated practice</text>
+</svg>

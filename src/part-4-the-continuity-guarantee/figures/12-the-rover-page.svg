@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 660" width="1200" height="660" role="img" aria-label="The demo page: a top-down arena with a rover and its five beams on the left, three live readouts on the right.">
+  <rect x="1" y="1" width="1198" height="658" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+
+  <!-- browser window -->
+  <rect x="60" y="60" width="1080" height="540" rx="10" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="60" y1="104" x2="1140" y2="104" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="86" cy="82" r="7" fill="#f8f7fb" stroke="#cbc8da" stroke-width="1.5"/>
+  <circle cx="108" cy="82" r="7" fill="#f8f7fb" stroke="#cbc8da" stroke-width="1.5"/>
+  <circle cx="130" cy="82" r="7" fill="#f8f7fb" stroke="#cbc8da" stroke-width="1.5"/>
+  <rect x="170" y="70" width="420" height="24" rx="12" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="1.5"/>
+  <line x1="775" y1="110" x2="775" y2="594" stroke="#e3e1ec" stroke-width="2"/>
+
+  <!-- the arena -->
+  <rect x="90" y="150" width="420" height="420" fill="#ffffff" stroke="#1b1f2c" stroke-width="3"/>
+  <rect x="130" y="200" width="80" height="45" fill="#1b1f2c"/>
+  <rect x="290" y="180" width="55" height="95" fill="#1b1f2c"/>
+  <rect x="150" y="430" width="95" height="55" fill="#1b1f2c"/>
+  <rect x="300" y="470" width="110" height="45" fill="#1b1f2c"/>
+  <rect x="240" y="330" width="70" height="45" fill="#1b1f2c"/>
+
+  <!-- where it has been -->
+  <polyline points="449,405 472,428 486,458 472,492 440,512 400,528 358,536 318,530 284,512 266,484 272,452 292,424 286,392 258,398 228,386 202,362 186,332 198,300" fill="none" stroke="#cbc8da" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
+
+  <!-- the five beams -->
+  <line x1="413" y1="357" x2="310" y2="337" stroke="#0f62c4" stroke-width="1.5"/>
+  <line x1="413" y1="357" x2="210" y2="227" stroke="#0f62c4" stroke-width="1.5"/>
+  <line x1="413" y1="357" x2="345" y2="266" stroke="#0f62c4" stroke-width="1.5"/>
+  <line x1="413" y1="357" x2="353" y2="150" stroke="#0f62c4" stroke-width="1.5"/>
+  <line x1="413" y1="357" x2="429" y2="150" stroke="#0f62c4" stroke-width="1.5"/>
+
+  <!-- the rover -->
+  <g transform="rotate(233.13 430 380)">
+    <rect x="416" y="357" width="12" height="8" rx="2" fill="#626779"/>
+    <rect x="438" y="357" width="12" height="8" rx="2" fill="#626779"/>
+    <rect x="416" y="395" width="12" height="8" rx="2" fill="#626779"/>
+    <rect x="438" y="395" width="12" height="8" rx="2" fill="#626779"/>
+    <rect x="408" y="364" width="44" height="32" rx="9" fill="#ffffff" stroke="#1b1f2c" stroke-width="2.5"/>
+    <rect x="453" y="362" width="6" height="36" rx="3" fill="#1b1f2c"/>
+  </g>
+
+  <!-- what is on the rover -->
+  <line x1="524" y1="218" x2="430" y2="222" stroke="#cbc8da" stroke-width="2"/>
+  <text x="530" y="224" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">five-beam rangefinder</text>
+  <line x1="524" y1="284" x2="424" y2="352" stroke="#cbc8da" stroke-width="2"/>
+  <text x="530" y="290" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">bumper</text>
+  <line x1="524" y1="350" x2="450" y2="378" stroke="#cbc8da" stroke-width="2"/>
+  <text x="530" y="356" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">compass</text>
+  <line x1="524" y1="416" x2="444" y2="398" stroke="#cbc8da" stroke-width="2"/>
+  <text x="530" y="422" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">position beacon</text>
+
+  <!-- readout: prediction error -->
+  <text x="790" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="600" fill="#1b1f2c">prediction error</text>
+  <line x1="800" y1="178" x2="800" y2="262" stroke="#1b1f2c" stroke-width="1.5"/>
+  <line x1="800" y1="262" x2="1110" y2="262" stroke="#1b1f2c" stroke-width="1.5"/>
+  <polyline points="800,186 830,196 860,212 890,224 925,234 965,242 1010,247 1060,250 1110,251" fill="none" stroke="#c2410c" stroke-width="2.5"/>
+
+  <!-- readout: population -->
+  <text x="790" y="304" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="600" fill="#1b1f2c">how many components</text>
+  <text x="790" y="326" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="600" fill="#1b1f2c">are alive</text>
+  <line x1="800" y1="336" x2="800" y2="420" stroke="#1b1f2c" stroke-width="1.5"/>
+  <line x1="800" y1="420" x2="1110" y2="420" stroke="#1b1f2c" stroke-width="1.5"/>
+  <line x1="800" y1="372" x2="1110" y2="372" stroke="#cbc8da" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <text x="806" y="366" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">15</text>
+  <polyline points="800,412 818,392 836,374 854,366 872,378 890,362 908,376 926,364 944,380 962,366 980,374 998,362 1016,378 1034,368 1052,376 1070,364 1088,374 1110,368" fill="none" stroke="#c2410c" stroke-width="2.5"/>
+
+  <!-- readout: best size -->
+  <text x="790" y="462" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="600" fill="#1b1f2c">best size</text>
+  <line x1="800" y1="472" x2="800" y2="556" stroke="#1b1f2c" stroke-width="1.5"/>
+  <line x1="800" y1="556" x2="1110" y2="556" stroke="#1b1f2c" stroke-width="1.5"/>
+  <polyline points="800,514 828,514 828,490 856,490 856,502 884,502 884,526 1110,526" fill="none" stroke="#c2410c" stroke-width="2.5"/>
+  <text x="1086" y="518" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">2</text>
+</svg>

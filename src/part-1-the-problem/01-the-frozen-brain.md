@@ -21,6 +21,8 @@ nothing it experiences changes it. Engineers call this study phase *training*.
 I call the copy that ships a "*frozen* brain": a snapshot of what was learned,
 with the learning switched off.
 
+![Train, then freeze](figures/01-train-then-freeze-timeline.svg)
+
 And that's what's bothering me; nobody would accept this for a person. It would
 mean hiring someone whose last day of learning was their final exam. Yet, we accept
 it for almost every machine.
@@ -87,6 +89,8 @@ update was downloaded, no engineer was involved. If I plant a tree next
 spring, it gets stuck a few times and adjusts again. None of this is
 science fiction; a mouse does it effortlessly. The reason your mower
 doesn't is a design choice, not a law of nature.
+
+![The mower learns in a week](figures/01-mower-learns-in-a-week.svg)
 
 I've been building a brain like that. It's called the Pose Resolution
 Architecture (PRA), and it runs, today, on worlds ranging from simulated

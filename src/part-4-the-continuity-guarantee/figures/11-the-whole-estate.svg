@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 740" width="1200" height="740" role="img" aria-label="Two inventories side by side: the usual model-plus-scrapbook stack, and PRA's population of frames with no stored past.">
+  <rect x="1" y="1" width="1198" height="738" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+
+  <!-- headings -->
+  <text x="255" y="96" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c">the usual inventory</text>
+  <text x="890" y="96" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c">the whole estate</text>
+
+  <line x1="600" y1="130" x2="600" y2="700" stroke="#cbc8da" stroke-width="2"/>
+
+  <!-- LEFT: scissors and glue stick -->
+  <line x1="190" y1="150" x2="236" y2="212" stroke="#1b1f2c" stroke-width="3"/>
+  <line x1="236" y1="150" x2="190" y2="212" stroke="#1b1f2c" stroke-width="3"/>
+  <circle cx="213" cy="181" r="4" fill="#1b1f2c"/>
+  <circle cx="243" cy="220" r="11" fill="none" stroke="#1b1f2c" stroke-width="3"/>
+  <circle cx="183" cy="220" r="11" fill="none" stroke="#1b1f2c" stroke-width="3"/>
+  <rect x="284" y="170" width="32" height="62" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <rect x="280" y="148" width="40" height="24" rx="3" fill="#e8edf5" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="286" y1="200" x2="314" y2="200" stroke="#cbc8da" stroke-width="2"/>
+  <text x="255" y="272" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#626779">a policy for what to paste in</text>
+  <text x="255" y="300" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#626779">and what to tear out</text>
+
+  <!-- LEFT: the scrapbook -->
+  <rect x="196" y="324" width="44" height="30" rx="2" fill="#ffffff" stroke="#626779" stroke-width="2" transform="rotate(-8 218 339)"/>
+  <rect x="250" y="320" width="44" height="32" rx="2" fill="#ffffff" stroke="#626779" stroke-width="2" transform="rotate(6 272 336)"/>
+  <rect x="298" y="326" width="40" height="28" rx="2" fill="#ffffff" stroke="#626779" stroke-width="2" transform="rotate(-4 318 340)"/>
+  <rect x="165" y="342" width="182" height="86" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <rect x="165" y="342" width="16" height="86" fill="#e8edf5" stroke="#1b1f2c" stroke-width="2"/>
+  <polygon points="325,342 347,342 347,364" fill="#e8edf5" stroke="#1b1f2c" stroke-width="2"/>
+  <line x1="187" y1="400" x2="341" y2="400" stroke="#cbc8da" stroke-width="2"/>
+  <line x1="187" y1="408" x2="341" y2="408" stroke="#cbc8da" stroke-width="2"/>
+  <line x1="187" y1="416" x2="341" y2="416" stroke="#cbc8da" stroke-width="2"/>
+  <line x1="187" y1="424" x2="341" y2="424" stroke="#cbc8da" stroke-width="2"/>
+  <text x="255" y="467" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#626779">a scrapbook of lived moments,</text>
+  <text x="255" y="495" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#626779">re-studied forever</text>
+
+  <!-- LEFT: the model -->
+  <rect x="175" y="530" width="160" height="64" rx="8" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <text x="255" y="570" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c">the model</text>
+
+  <!-- LEFT: growth arrow, thin album to fat album -->
+  <rect x="492" y="166" width="60" height="14" fill="#ffffff" stroke="#626779" stroke-width="2"/>
+  <text x="522" y="204" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">day 1</text>
+  <line x1="522" y1="222" x2="522" y2="470" stroke="#cbc8da" stroke-width="2"/>
+  <polygon points="516,470 528,470 522,484" fill="#cbc8da"/>
+  <rect x="492" y="498" width="60" height="72" fill="#ffffff" stroke="#626779" stroke-width="2"/>
+  <line x1="496" y1="516" x2="548" y2="516" stroke="#cbc8da" stroke-width="2"/>
+  <line x1="496" y1="532" x2="548" y2="532" stroke="#cbc8da" stroke-width="2"/>
+  <line x1="496" y1="548" x2="548" y2="548" stroke="#cbc8da" stroke-width="2"/>
+  <text x="522" y="596" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">day 1,000</text>
+
+  <!-- RIGHT: the population of frames, row A -->
+  <rect x="648" y="148" width="64" height="44" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="672" cy="179" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="672" y1="179" x2="675" y2="175" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="688" cy="179" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="688" y1="179" x2="691" y2="175" stroke="#626779" stroke-width="1.5"/>
+
+  <rect x="726" y="140" width="84" height="54" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="752" cy="181" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="752" y1="181" x2="755" y2="177" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="768" cy="181" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="768" y1="181" x2="771" y2="177" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="784" cy="181" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="784" y1="181" x2="787" y2="177" stroke="#626779" stroke-width="1.5"/>
+
+  <rect x="824" y="150" width="56" height="40" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="844" cy="177" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="844" y1="177" x2="847" y2="173" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="860" cy="177" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="860" y1="177" x2="863" y2="173" stroke="#626779" stroke-width="1.5"/>
+
+  <rect x="894" y="142" width="96" height="52" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="918" cy="181" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="918" y1="181" x2="921" y2="177" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="934" cy="181" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="934" y1="181" x2="937" y2="177" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="950" cy="181" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="950" y1="181" x2="953" y2="177" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="966" cy="181" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="966" y1="181" x2="969" y2="177" stroke="#626779" stroke-width="1.5"/>
+
+  <rect x="1004" y="152" width="60" height="42" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="1026" cy="181" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="1026" y1="181" x2="1029" y2="177" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="1042" cy="181" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="1042" y1="181" x2="1045" y2="177" stroke="#626779" stroke-width="1.5"/>
+
+  <rect x="1078" y="144" width="68" height="48" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="1096" cy="179" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="1096" y1="179" x2="1099" y2="175" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="1112" cy="179" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="1112" y1="179" x2="1115" y2="175" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="1128" cy="179" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="1128" y1="179" x2="1131" y2="175" stroke="#626779" stroke-width="1.5"/>
+
+  <!-- RIGHT: the population of frames, row B -->
+  <rect x="648" y="212" width="76" height="48" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="670" cy="247" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="670" y1="247" x2="673" y2="243" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="686" cy="247" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="686" y1="247" x2="689" y2="243" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="702" cy="247" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="702" y1="247" x2="705" y2="243" stroke="#626779" stroke-width="1.5"/>
+
+  <rect x="738" y="204" width="58" height="40" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="759" cy="231" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="759" y1="231" x2="762" y2="227" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="775" cy="231" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="775" y1="231" x2="778" y2="227" stroke="#626779" stroke-width="1.5"/>
+
+  <rect x="810" y="210" width="88" height="52" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="830" cy="249" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="830" y1="249" x2="833" y2="245" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="846" cy="249" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="846" y1="249" x2="849" y2="245" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="862" cy="249" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="862" y1="249" x2="865" y2="245" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="878" cy="249" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="878" y1="249" x2="881" y2="245" stroke="#626779" stroke-width="1.5"/>
+
+  <rect x="912" y="206" width="64" height="46" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="936" cy="239" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="936" y1="239" x2="939" y2="235" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="952" cy="239" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="952" y1="239" x2="955" y2="235" stroke="#626779" stroke-width="1.5"/>
+
+  <rect x="990" y="214" width="78" height="44" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <circle cx="1013" cy="245" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="1013" y1="245" x2="1016" y2="241" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="1029" cy="245" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="1029" y1="245" x2="1032" y2="241" stroke="#626779" stroke-width="1.5"/>
+  <circle cx="1045" cy="245" r="5" fill="none" stroke="#626779" stroke-width="1.5"/><line x1="1045" y1="245" x2="1048" y2="241" stroke="#626779" stroke-width="1.5"/>
+
+  <!-- RIGHT: the one frame that gets named -->
+  <rect x="660" y="286" width="104" height="62" rx="6" fill="#ffffff" stroke="#c2410c" stroke-width="3"/>
+  <circle cx="696" cy="335" r="5" fill="none" stroke="#c2410c" stroke-width="1.5"/><line x1="696" y1="335" x2="699" y2="331" stroke="#c2410c" stroke-width="1.5"/>
+  <circle cx="712" cy="335" r="5" fill="none" stroke="#c2410c" stroke-width="1.5"/><line x1="712" y1="335" x2="715" y2="331" stroke="#c2410c" stroke-width="1.5"/>
+  <circle cx="728" cy="335" r="5" fill="none" stroke="#c2410c" stroke-width="1.5"/><line x1="728" y1="335" x2="731" y2="331" stroke="#c2410c" stroke-width="1.5"/>
+
+  <line x1="764" y1="317" x2="796" y2="292" stroke="#cbc8da" stroke-width="2"/>
+  <line x1="764" y1="317" x2="796" y2="324" stroke="#cbc8da" stroke-width="2"/>
+  <line x1="764" y1="317" x2="796" y2="356" stroke="#cbc8da" stroke-width="2"/>
+  <text x="808" y="298" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c">its size</text>
+  <text x="808" y="330" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c">the numbers inside it</text>
+  <text x="808" y="362" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c">its running score</text>
+
+  <!-- RIGHT: the belt of observations -->
+  <text x="650" y="402" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">a small window of recent</text>
+  <text x="650" y="426" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">ones, for bookkeeping</text>
+  <polyline points="650,450 650,440 804,440 804,450" fill="none" stroke="#626779" stroke-width="2"/>
+
+  <rect x="648" y="472" width="292" height="18" rx="9" fill="#e8edf5" stroke="#cbc8da" stroke-width="2"/>
+  <circle cx="652" cy="481" r="10" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+  <circle cx="936" cy="481" r="10" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+
+  <rect x="656" y="458" width="12" height="12" fill="#ffffff" stroke="#626779" stroke-width="1.5"/>
+  <rect x="672" y="458" width="12" height="12" fill="#c2410c"/>
+  <rect x="688" y="458" width="12" height="12" fill="#ffffff" stroke="#626779" stroke-width="1.5"/>
+  <rect x="712" y="458" width="12" height="12" fill="#ffffff" stroke="#626779" stroke-width="1.5"/>
+  <rect x="728" y="458" width="12" height="12" fill="#c2410c"/>
+  <rect x="744" y="458" width="12" height="12" fill="#ffffff" stroke="#626779" stroke-width="1.5"/>
+  <rect x="768" y="458" width="12" height="12" fill="#ffffff" stroke="#626779" stroke-width="1.5"/>
+  <rect x="784" y="458" width="12" height="12" fill="#c2410c"/>
+  <rect x="800" y="458" width="12" height="12" fill="#ffffff" stroke="#626779" stroke-width="1.5"/>
+  <rect x="824" y="458" width="12" height="12" fill="#ffffff" stroke="#626779" stroke-width="1.5"/>
+  <rect x="840" y="458" width="12" height="12" fill="#c2410c"/>
+  <rect x="856" y="458" width="12" height="12" fill="#ffffff" stroke="#626779" stroke-width="1.5"/>
+  <rect x="880" y="458" width="12" height="12" fill="#ffffff" stroke="#626779" stroke-width="1.5"/>
+  <rect x="896" y="458" width="12" height="12" fill="#c2410c"/>
+  <rect x="912" y="458" width="12" height="12" fill="#ffffff" stroke="#626779" stroke-width="1.5"/>
+
+  <!-- RIGHT: the open-bottomed chute -->
+  <line x1="886" y1="502" x2="924" y2="562" stroke="#626779" stroke-width="2.5"/>
+  <line x1="1002" y1="502" x2="964" y2="562" stroke="#626779" stroke-width="2.5"/>
+  <g opacity="0.55">
+    <rect x="922" y="508" width="12" height="12" fill="#ffffff" stroke="#626779" stroke-width="1.5"/>
+    <rect x="938" y="508" width="12" height="12" fill="#c2410c"/>
+    <rect x="954" y="508" width="12" height="12" fill="#ffffff" stroke="#626779" stroke-width="1.5"/>
+  </g>
+  <g opacity="0.25">
+    <rect x="922" y="540" width="12" height="12" fill="#ffffff" stroke="#626779" stroke-width="1.5"/>
+    <rect x="938" y="540" width="12" height="12" fill="#c2410c"/>
+    <rect x="954" y="540" width="12" height="12" fill="#ffffff" stroke="#626779" stroke-width="1.5"/>
+  </g>
+
+  <text x="890" y="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#626779">every observation: used in the</text>
+  <text x="890" y="628" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#626779">moment, then gone</text>
+
+  <text x="890" y="678" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c">day 1 and day 1,000: the same size</text>
+</svg>

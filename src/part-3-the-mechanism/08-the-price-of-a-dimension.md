@@ -34,6 +34,8 @@ ones never get the chance. Lengthen the patience stepwise
 with it (means 4.7, 5.7, 6.7, 10.7). A dose–response curve like that is
 as close as this kind of work gets to proof of mechanism.
 
+![Patience, dose and response](figures/08-patience-dose-response.svg)
+
 Six constants turned out to have the same disease: sensible at the
 reference, silently wrong at scale, each one masking the next. The
 learning rate diverged first and hid everything behind it. The world
@@ -128,6 +130,8 @@ stops paying for itself, sits at dimensions 8 to 12. The system lands
 at 10. It isn't failing to find the truth. It is sitting exactly at the
 optimum of the trade it was actually asked to make, and it holds that
 optimum stably at every scale and every budget I've measured.
+
+![No elbow, and the price](figures/08-no-elbow-and-the-price.svg)
 
 > **Under the hood: the price arithmetic.** Long-horizon honest error
 > falls monotonically in dim (both components, both probe seeds; 4×

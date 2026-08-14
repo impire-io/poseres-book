@@ -30,6 +30,8 @@ somewhere over twenty before you're done with one hand.
 That number is the world's hidden size. I'll call the knobs *dimensions*:
 the separate numbers you'd need to pin down what state a thing is in.
 
+![The knob game](figures/03-the-knob-game.svg)
+
 Now the strange part. What your senses receive is enormously bigger than
 that. A camera watching the swing delivers a million pixels, sixty times a
 second. A million numbers to describe a one-knob world. The pixels aren't
@@ -37,6 +39,8 @@ lying, but they're redundant: behind the million there is one. Finding the
 few knobs behind the many numbers is, I'd argue, most of what
 understanding a world *is*. And here's the question that matters: when a
 brain does that, how does it know how many knobs to look for?
+
+![Few knobs behind many numbers](figures/03-few-knobs-behind-many-numbers.svg)
 
 > **Under the hood: latent state and emission.** Formally: the world has a
 > latent state `z ∈ R^d` and the senses receive `x = f(z)` with
@@ -96,6 +100,8 @@ One knob for a twenty-knob world. One knob for fifty. The same machinery
 that reliably found "three" in the small world looked at every large world
 I could build and confidently reported the smallest possible answer, as if
 the entire world were a swing.
+
+![The answer was one](figures/03-the-answer-was-one.svg)
 
 > **Under the hood: the T-SCALE reading.** Feature 001 (the `pra` package:
 > batched dim-grouped kernel, deterministic telemetry, the `pra-validate`

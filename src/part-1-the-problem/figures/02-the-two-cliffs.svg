@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <rect x="1" y="1" width="1198" height="758" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+
+  <!-- rock silhouette: two outer landmasses, a narrow central ridge, two chasms -->
+  <path d="M 48 360
+           L 340 330
+           L 342 660
+           L 558 660
+           L 560 240
+           L 640 240
+           L 642 660
+           L 858 660
+           L 860 330
+           L 1152 360
+           L 1152 712
+           L 48 712 Z"
+        fill="#d8d2c9"/>
+  <!-- cool shadow washes inside the chasms -->
+  <rect x="344" y="430" width="212" height="228" fill="#e8edf5" opacity="0.65"/>
+  <rect x="644" y="430" width="212" height="228" fill="#e8edf5" opacity="0.65"/>
+  <!-- chasm rims -->
+  <path d="M 340 330 L 342 660 L 558 660 L 560 240" fill="none" stroke="#b8b0a4" stroke-width="2.5"/>
+  <path d="M 640 240 L 642 660 L 858 660 L 860 330" fill="none" stroke="#b8b0a4" stroke-width="2.5"/>
+
+  <!-- the brain glyph on the ridge top, stepping backward from the left edge -->
+  <rect x="568" y="176" width="64" height="48" rx="12" fill="#ffffff" stroke="#c2410c" stroke-width="3.5"/>
+  <line x1="584" y1="224" x2="584" y2="238" stroke="#c2410c" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="616" y1="224" x2="616" y2="238" stroke="#c2410c" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="548" y1="156" x2="624" y2="156" stroke="#1b1f2c" stroke-width="2.5" stroke-dasharray="7 6"/>
+  <polygon points="638,156 622,148 622,164" fill="#1b1f2c"/>
+
+  <!-- left chasm: overwriting -->
+  <text x="450" y="392" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c">OVERWRITING</text>
+  <text x="450" y="424" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">nothing old survives</text>
+  <!-- faint whiteboard with erased marks, far below -->
+  <g opacity="0.55">
+    <rect x="398" y="556" width="104" height="70" rx="4" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+    <path d="M 410 574 q 14 -6 28 0" fill="none" stroke="#cbc8da" stroke-width="2.5"/>
+    <path d="M 446 590 q 16 -5 34 0" fill="none" stroke="#cbc8da" stroke-width="2.5"/>
+    <path d="M 412 606 q 20 -6 40 0" fill="none" stroke="#cbc8da" stroke-width="2.5"/>
+  </g>
+
+  <!-- right chasm: hoarding -->
+  <text x="750" y="392" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c">HOARDING</text>
+  <text x="750" y="424" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">nothing is ever thrown away</text>
+  <!-- precarious tower of boxes and bundles rising from the chasm floor -->
+  <g fill="#ffffff" stroke="#626779" stroke-width="2">
+    <rect x="716" y="620" width="88" height="38"/>
+    <rect x="726" y="584" width="72" height="36" transform="rotate(-2 762 602)"/>
+    <rect x="718" y="548" width="80" height="36" transform="rotate(2 758 566)"/>
+    <rect x="730" y="514" width="64" height="34" transform="rotate(-3 762 531)"/>
+    <rect x="722" y="482" width="72" height="32" transform="rotate(3 758 498)"/>
+  </g>
+  <g stroke="#626779" stroke-width="1.5" opacity="0.7">
+    <line x1="726" y1="590" x2="796" y2="588"/>
+    <line x1="722" y1="556" x2="796" y2="556"/>
+    <line x1="734" y1="521" x2="792" y2="520"/>
+  </g>
+</svg>

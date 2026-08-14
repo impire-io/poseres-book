@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 850" width="1200" height="850">
+  <rect x="1" y="1" width="1198" height="848" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+
+  <!-- column divider -->
+  <line x1="712" y1="70" x2="712" y2="805" stroke="#cbc8da" stroke-width="2"/>
+  <line x1="60" y1="472" x2="680" y2="472" stroke="#e3e1ec" stroke-width="2"/>
+  <line x1="740" y1="472" x2="1140" y2="472" stroke="#e3e1ec" stroke-width="2"/>
+
+  <!-- ================= COLUMN A : WHERE ================= -->
+  <text x="60" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c">WHERE: in whose coordinates?</text>
+
+  <!-- grey ellipse behind both funnels -->
+  <ellipse cx="370" cy="290" rx="290" ry="58" fill="#e8edf5" stroke="#cbc8da" stroke-width="1.5"/>
+
+  <!-- left input: ten numbered sensor boxes -->
+  <text x="185" y="132" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">what the sensors</text>
+  <text x="185" y="156" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">actually said</text>
+
+  <rect x="110" y="170" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="141" y="170" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="172" y="170" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="203" y="170" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="234" y="170" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="110" y="201" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="141" y="201" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="172" y="201" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="203" y="201" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="234" y="201" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <text x="123" y="189" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#626779">1</text>
+  <text x="154" y="189" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#626779">2</text>
+  <text x="185" y="189" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#626779">3</text>
+  <text x="216" y="189" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#626779">4</text>
+  <text x="247" y="189" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#626779">5</text>
+  <text x="123" y="220" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#626779">6</text>
+  <text x="154" y="220" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#626779">7</text>
+  <text x="185" y="220" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#626779">8</text>
+  <text x="216" y="220" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#626779">9</text>
+  <text x="247" y="220" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#626779">10</text>
+
+  <!-- right input: the frame's forecast panel -->
+  <text x="525" y="156" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">what the frame predicted</text>
+  <rect x="450" y="172" width="150" height="50" rx="10" fill="#ffffff" stroke="#c2410c" stroke-width="2"/>
+  <circle cx="490" cy="197" r="12" fill="none" stroke="#c2410c" stroke-width="2"/>
+  <line x1="490" y1="197" x2="482" y2="189" stroke="#c2410c" stroke-width="2"/>
+  <circle cx="560" cy="197" r="12" fill="none" stroke="#c2410c" stroke-width="2"/>
+  <line x1="560" y1="197" x2="568" y2="189" stroke="#c2410c" stroke-width="2"/>
+
+  <!-- the two identical funnels -->
+  <polygon points="90,246 280,246 200,306 170,306" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <rect x="170" y="306" width="30" height="20" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <text x="185" y="272" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">squeeze</text>
+
+  <polygon points="430,246 620,246 540,306 510,306" fill="#ffffff" stroke="#c2410c" stroke-width="2"/>
+  <rect x="510" y="306" width="30" height="20" fill="#ffffff" stroke="#c2410c" stroke-width="2"/>
+  <text x="525" y="272" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#c2410c">squeeze</text>
+
+  <!-- what the squeeze threw away -->
+  <text x="370" y="276" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">everything the</text>
+  <text x="370" y="302" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">squeeze threw away</text>
+  <text x="370" y="328" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">is invisible to both sides</text>
+
+  <!-- the two squeezed values meet -->
+  <rect x="143" y="364" width="84" height="34" rx="6" fill="#ffffff" stroke="#1b1f2c" stroke-width="2"/>
+  <text x="185" y="387" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">0.41</text>
+  <rect x="483" y="364" width="84" height="34" rx="6" fill="#ffffff" stroke="#c2410c" stroke-width="2"/>
+  <text x="525" y="387" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#c2410c">0.41</text>
+  <text x="338" y="392" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c">=</text>
+  <polyline points="374,388 382,396 398,376" fill="none" stroke="#15803d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="370" y="436" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">self-graded error: 0.36 — looks excellent</text>
+
+  <!-- column A, the repair -->
+  <rect x="143" y="500" width="84" height="34" rx="6" fill="#ffffff" stroke="#c2410c" stroke-width="2"/>
+  <text x="185" y="523" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#c2410c">0.41</text>
+
+  <polygon points="170,546 200,546 280,606 90,606" fill="#ffffff" stroke="#c2410c" stroke-width="2"/>
+
+  <rect x="110" y="620" width="26" height="26" rx="4" fill="#ffffff" stroke="#c2410c" stroke-width="1.5"/>
+  <rect x="141" y="620" width="26" height="26" rx="4" fill="#ffffff" stroke="#c2410c" stroke-width="1.5"/>
+  <rect x="172" y="620" width="26" height="26" rx="4" fill="#ffffff" stroke="#c2410c" stroke-width="1.5"/>
+  <rect x="203" y="620" width="26" height="26" rx="4" fill="#ffffff" stroke="#c2410c" stroke-width="1.5"/>
+  <rect x="234" y="620" width="26" height="26" rx="4" fill="#ffffff" stroke="#c2410c" stroke-width="1.5"/>
+  <rect x="110" y="651" width="26" height="26" rx="4" fill="#ffffff" stroke="#c2410c" stroke-width="1.5"/>
+  <rect x="141" y="651" width="26" height="26" rx="4" fill="#ffffff" stroke="#c2410c" stroke-width="1.5"/>
+  <rect x="172" y="651" width="26" height="26" rx="4" fill="#ffffff" stroke="#c2410c" stroke-width="1.5"/>
+  <rect x="203" y="651" width="26" height="26" rx="4" fill="#ffffff" stroke="#c2410c" stroke-width="1.5"/>
+  <rect x="234" y="651" width="26" height="26" rx="4" fill="#ffffff" stroke="#c2410c" stroke-width="1.5"/>
+
+  <rect x="450" y="620" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="481" y="620" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="512" y="620" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="543" y="620" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="574" y="620" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="450" y="651" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="481" y="651" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="512" y="651" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="543" y="651" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+  <rect x="574" y="651" width="26" height="26" rx="4" fill="#ffffff" stroke="#1b1f2c" stroke-width="1.5"/>
+
+  <!-- two-headed comparison arrow -->
+  <line x1="288" y1="648" x2="422" y2="648" stroke="#1b1f2c" stroke-width="2"/>
+  <polygon points="278,648 294,641 294,655" fill="#1b1f2c"/>
+  <polygon points="432,648 416,641 416,655" fill="#1b1f2c"/>
+
+  <text x="185" y="706" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">what the frame</text>
+  <text x="185" y="730" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">predicted</text>
+  <text x="525" y="706" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">what the sensors</text>
+  <text x="525" y="730" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">actually said</text>
+
+  <text x="370" y="770" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">honest error, measured against the sensors:</text>
+  <text x="370" y="794" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">~1.0 — no better than guessing</text>
+
+  <!-- ================= COLUMN B : WHICH ================= -->
+  <text x="740" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c">WHICH: over which moments?</text>
+
+  <text x="940" y="210" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">one hundred consecutive moments</text>
+
+  <line x1="741.5" y1="256" x2="1140" y2="256" stroke="#cbc8da" stroke-width="44" stroke-dasharray="3 1"/>
+  <rect x="744" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="752" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="756" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="776" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="788" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="792" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="808" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="828" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="844" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="848" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="872" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="892" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="904" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="920" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="924" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="948" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="972" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="984" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="1008" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="1024" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="1052" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="1084" y="234" width="3" height="44" fill="#c2410c"/>
+  <rect x="1112" y="234" width="3" height="44" fill="#c2410c"/>
+
+  <text x="940" y="320" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">graded on only the 23% it</text>
+  <text x="940" y="346" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">agreed to map — the easy</text>
+  <text x="940" y="372" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">quarter of its world</text>
+
+  <text x="940" y="556" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">one hundred consecutive moments</text>
+  <line x1="741.5" y1="602" x2="1140" y2="602" stroke="#c2410c" stroke-width="44" stroke-dasharray="3 1"/>
+
+  <text x="940" y="666" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">graded on every moment it</text>
+  <text x="940" y="692" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">was exposed to, mapped</text>
+  <text x="940" y="718" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">or declined</text>
+</svg>

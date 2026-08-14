@@ -35,6 +35,8 @@ So a pose is not the frame, and not the world either. It's the frame's
 reading of one observation, expressed in the frame's own coordinates.
 New sight, new pose, same frame.
 
+![Frame and pose](figures/06-frame-panel-and-pose.svg)
+
 Second job: *predict*. Told the action (motors forward!), the frame
 predicts where its knobs will land next. Then the real next sight
 arrives and does the grading itself, the free teacher chapter 4
@@ -129,6 +131,8 @@ keeping. In v3 the bar bent the other way: crowding made survival
 easier, and chapter 2 showed you the straight-line hoarding that
 bought. Same mechanism, one sign flipped, opposite fate.
 
+![The life cycle of a frame](figures/06-frame-life-cycle.svg)
+
 > **Under the hood: the life cycle, precisely.** Two timescales. The fast
 > loop runs per-event: frames place, predict, and learn weights; the only
 > structural event allowed is birth-on-demand when zero frames map an
@@ -154,6 +158,8 @@ crowd's best answer for the world's size settles and steadies. No line in
 the code says "keep about sixteen frames." That number is negotiated,
 continuously, between the spawn rate and the bar, and it holds while
 individual frames come and go.
+
+![The population breathes](figures/06-population-breathes.svg)
 
 That sentence is the quiet heart of this
 book. The knowledge in PRA doesn't live in any frame. Frames are

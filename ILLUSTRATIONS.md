@@ -14,6 +14,47 @@ Files go next to the chapter that uses them, numbered by chapter:
 `src/<part>/figures/<NN>-<slug>.svg` (diagrams/charts, SVG preferred) or
 `.png` (scenes), embedded as `![…](figures/<NN>-<slug>.png)`.
 
+## SVG production spec (diagrams and charts)
+
+The diagram/chart entries are built as hand-authored SVGs in this repo;
+only the scenes and the cover go to an external image program. **Status:
+all 39 diagram/chart figures are built and embedded** (2026-08-14, under
+`src/<part>/figures/`); the 11 scenes and the cover remain open. Every SVG
+follows this spec so the set reads as one system:
+
+- **Canvas**: `viewBox="0 0 1200 H"` (H chosen per figure, typically
+  650–900; wide strips may run 1200×420). First element is the paper
+  panel: `<rect x="1" y="1" width="1198" height="H-2" rx="14"
+  fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>` — the panel is part
+  of the image so figures read on the site's light *and* navy themes.
+- **Padding**: keep 48px clear inside the panel edge; nothing overlaps —
+  when in doubt, grow H rather than shrink type.
+- **Palette (hex, fixed)**: ink `#1b1f2c`; dim text `#626779`; lines
+  `#cbc8da`; faint grid `#e3e1ec`; white card fill `#ffffff`; warm amber
+  (the system's act / the judged thing / the event-head series)
+  `#c2410c`; world blue (the world, the grader, the frames series)
+  `#0f62c4`; oracle gold (always dashed) `#96570a`; warning (taxed /
+  penalized) `#be123c`; frozen wash `#e8edf5`; success green (only where
+  an entry names a green check) `#15803d`. Muted greens `#a7c9a2` /
+  `#7fae7a` are permitted solely for lawn/terrain vignettes.
+- **Type**: sans labels
+  `font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"`
+  at 22px (captions 20px, headings 28px, weight 600); monospace for axis
+  ticks, tallies, and data callouts
+  `font-family="ui-monospace, 'SF Mono', Menlo, monospace"` at 20px.
+  Break long labels with `<tspan x=… dy="1.3em">`.
+- **Chart honesty rules** (from the entries): research charts get thin
+  ink axes, monospace ticks, direct line labels — never legend boxes,
+  never pass/fail badges; conceptual shape-curves carry no y-axis
+  numbers; spreads are per-run dots, never a lone average.
+- **No** external references, `<image>` elements, scripts, or CSS
+  classes — inline presentation attributes only.
+- **Files**: `src/<part>/figures/<NN>-<slug>.svg`, `NN` the two-digit
+  chapter number. Embed in the chapter as
+  `![<short title>](figures/<NN>-<slug>.svg)` on its own line, a blank
+  line either side, directly after the paragraph containing the entry's
+  placement quote.
+
 ## Art direction — one system
 
 **Register.** Flat editorial vector line art on an off-white paper panel.

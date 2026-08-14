@@ -108,6 +108,8 @@ stayed busy the entire run: something sat staged in it on 36% of all
 steps, the bot put items in with a full hand 132,645 times and pressed
 "take the offer" 222,305 times.
 
+![Seventeen days in one strip](figures/13-seventeen-days-in-one-strip.svg)
+
 Here is the number that decides the headline. The grid only offers
 something when a valid recipe is staged, and seeds, dirt, litter, and
 leashes form no recipe. Across all 5,669,662 recorded steps of the
@@ -117,6 +119,8 @@ Zero. It pressed the take button a quarter of a million times on an
 empty counter.
 <!-- Offer count: R1, journey 0068; the log was placed, not staged —
      offer_steps=0 excludes staging, and the body has no drop action. -->
+
+![The empty counter](figures/13-the-empty-counter.svg)
 
 So the pre-registered verdict is a clean null: crafting did not
 emerge. The reversal watches closed unfired. And the texture of the
@@ -156,6 +160,8 @@ the bot dug. Once a dig predicts cleanly there is nothing left falling,
 the score goes flat, and the frontier is elsewhere. The era did not end
 because something went wrong. It ended because the era succeeded, and
 success is precisely what this drive is built to leave.
+
+![Why it walked away](figures/13-why-it-walked-away.svg)
 
 Two drives, two failure shapes, both now measured in the same world:
 competence-as-familiarity stands still forever, and frontier cannot

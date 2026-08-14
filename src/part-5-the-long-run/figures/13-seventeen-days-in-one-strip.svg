@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640" role="img" aria-label="A seventeen-day run drawn as one timeline strip: a four-day band of gathering, a single log pinned inside it, and three sub-lines beneath.">
+  <rect x="1" y="1" width="1198" height="638" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+
+  <!-- what the shaded band was -->
+  <text x="170" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">four days of hands:<tspan x="170" dy="1.3em">449 finished digs,</tspan><tspan x="170" dy="1.3em">1,077 blocks picked up</tspan></text>
+  <path d="M 300 148 L 328 200" fill="none" stroke="#626779" stroke-width="2"/>
+  <polygon points="322,188 332,206 314,202" fill="#626779"/>
+
+  <!-- what the rest of the run was -->
+  <text x="1120" y="82" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">3.7 million steps: nine things picked up,<tspan x="1120" dy="1.3em">all nine dropped nearby by a passing</tspan><tspan x="1120" dy="1.3em">trader's llamas</tspan></text>
+  <path d="M 676 146 L 622 200" fill="none" stroke="#626779" stroke-width="2"/>
+  <polygon points="632,190 618,206 628,204" fill="#626779"/>
+
+  <!-- the run, end to end, with the lost stretch as a gap -->
+  <rect x="140" y="210" width="906" height="48" fill="#ffffff" stroke="#1b1f2c" stroke-width="3"/>
+  <rect x="1062" y="210" width="58" height="48" fill="#ffffff" stroke="#1b1f2c" stroke-width="3"/>
+  <rect x="303" y="210" width="164" height="48" fill="#e3e1ec" stroke="#1b1f2c" stroke-width="3"/>
+
+  <!-- the log, pinned where it happened -->
+  <text x="432" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#c2410c">one oak log, step<tspan x="432" dy="1.3em">1,299,001, held four</tspan><tspan x="432" dy="1.3em">minutes, put back</tspan></text>
+  <circle cx="400" cy="158" r="10" fill="#c2410c"/>
+  <line x1="400" y1="168" x2="400" y2="206" stroke="#c2410c" stroke-width="3"/>
+  <polygon points="393,200 407,200 400,214" fill="#c2410c"/>
+
+  <!-- the hole in the record -->
+  <text x="1120" y="176" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">57,219 steps lost — the disk filled up</text>
+  <line x1="1054" y1="184" x2="1054" y2="208" stroke="#626779" stroke-width="2"/>
+
+  <!-- the two ends -->
+  <text x="140" y="286" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">step 0</text>
+  <text x="1120" y="286" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">step 5,669,662 — seventeen days</text>
+
+  <!-- sub-line: chose to dig -->
+  <text x="140" y="336" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c">chose to dig</text>
+  <line x1="140" y1="396" x2="1120" y2="396" stroke="#e3e1ec" stroke-width="2"/>
+  <path d="M 140 386 L 303 386 L 303 384 L 467 384 L 467 374 L 1120 374" fill="none" stroke="#c2410c" stroke-width="3"/>
+  <text x="385" y="364" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#c2410c">6.5%</text>
+  <text x="800" y="352" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#c2410c">9.4%</text>
+
+  <!-- sub-line: digs that finished -->
+  <text x="140" y="436" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c">digs that finished</text>
+  <line x1="140" y1="486" x2="1120" y2="486" stroke="#e3e1ec" stroke-width="2"/>
+  <path d="M 140 486 L 296 486 L 303 452 L 467 452 L 467 486 L 1120 486" fill="none" stroke="#1b1f2c" stroke-width="3"/>
+
+  <!-- sub-line: steps with anything on offer -->
+  <text x="140" y="546" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" fill="#1b1f2c">steps with anything on offer</text>
+  <line x1="140" y1="576" x2="1120" y2="576" stroke="#e3e1ec" stroke-width="2"/>
+  <line x1="140" y1="576" x2="1120" y2="576" stroke="#1b1f2c" stroke-width="3"/>
+</svg>

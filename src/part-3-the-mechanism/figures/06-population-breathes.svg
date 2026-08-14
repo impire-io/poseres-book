@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700" role="img" aria-label="Number of frames alive over cycles: a sawtooth line hovering in the teens, against an earlier version climbing straight off the top.">
+  <rect x="1" y="1" width="1198" height="698" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+
+  <!-- faint gridlines -->
+  <line x1="200" y1="453.3" x2="1060" y2="453.3" stroke="#e3e1ec" stroke-width="1"/>
+  <line x1="200" y1="306.7" x2="1060" y2="306.7" stroke="#e3e1ec" stroke-width="1"/>
+  <line x1="200" y1="160" x2="1060" y2="160" stroke="#e3e1ec" stroke-width="1"/>
+
+  <!-- the band the population settles into -->
+  <rect x="372" y="321.3" width="688" height="88" fill="#c2410c" fill-opacity="0.10"/>
+
+  <!-- the earlier version : one new frame per cycle -->
+  <line x1="200" y1="600" x2="852" y2="110" stroke="#cbc8da" stroke-width="2.5" stroke-dasharray="10 8"/>
+
+  <!-- axes -->
+  <line x1="200" y1="120" x2="200" y2="600" stroke="#1b1f2c" stroke-width="1.5"/>
+  <line x1="200" y1="600" x2="1060" y2="600" stroke="#1b1f2c" stroke-width="1.5"/>
+  <line x1="194" y1="600" x2="200" y2="600" stroke="#1b1f2c" stroke-width="1.5"/>
+  <line x1="194" y1="453.3" x2="200" y2="453.3" stroke="#1b1f2c" stroke-width="1.5"/>
+  <line x1="194" y1="306.7" x2="200" y2="306.7" stroke="#1b1f2c" stroke-width="1.5"/>
+  <line x1="194" y1="160" x2="200" y2="160" stroke="#1b1f2c" stroke-width="1.5"/>
+  <text x="184" y="607" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">0</text>
+  <text x="184" y="460" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">10</text>
+  <text x="184" y="314" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">20</text>
+  <text x="184" y="167" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">30</text>
+  <text x="150" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">number of frames alive</text>
+  <text x="630" y="640" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">cycles</text>
+
+  <!-- the population, breathing -->
+  <polyline fill="none" stroke="#c2410c" stroke-width="3" stroke-linejoin="round" points="200,600 218,540 240,470 265,420 292,392 322,375 350,368 372,365.3 393,350.7 414,380 435,350.7 456,321.3 477,336 498,365.3 519,350.7 540,380 561,394.7 582,409.3 603,380 624,365.3 645,336 666,350.7 687,380 708,365.3 729,336 750,350.7 771,321.3 792,336 813,365.3 834,394.7 855,409.3 876,380 897,365.3 918,336 939,350.7 960,380 981,365.3 1002,394.7 1023,365.3 1044,350.7 1060,365.3"/>
+
+  <!-- what each tick is -->
+  <text x="456" y="308" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="16" fill="#c2410c">+</text>
+  <text x="645" y="323" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="16" fill="#c2410c">+</text>
+  <text x="771" y="308" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="16" fill="#c2410c">+</text>
+  <text x="918" y="323" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="16" fill="#c2410c">+</text>
+  <text x="414" y="398" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="16" fill="#c2410c">&#8722;</text>
+  <text x="582" y="427" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="16" fill="#c2410c">&#8722;</text>
+  <text x="855" y="427" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="16" fill="#c2410c">&#8722;</text>
+  <text x="1002" y="412" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="16" fill="#c2410c">&#8722;</text>
+
+  <!-- direct label on the pale line -->
+  <text x="230" y="196" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">an earlier version: one new</text>
+  <text x="230" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">frame per cycle, no plateau</text>
+  <line x1="537" y1="214" x2="692" y2="236" stroke="#cbc8da" stroke-width="1.5"/>
+
+  <!-- the annotation -->
+  <text x="910" y="250" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">no line of code says</text>
+  <text x="910" y="276" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">&#8216;keep about sixteen frames&#8217;</text>
+  <line x1="1000" y1="288" x2="1000" y2="318" stroke="#cbc8da" stroke-width="1.5"/>
+
+  <!-- what the band says -->
+  <line x1="760" y1="448" x2="760" y2="412" stroke="#cbc8da" stroke-width="1.5"/>
+  <text x="760" y="470" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">hovers in the teens &#8212; 15, 19 and 13</text>
+  <text x="760" y="496" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#1b1f2c">frames on three runs of the same world</text>
+
+  <!-- the key -->
+  <text x="760" y="546" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#c2410c">+ spawn   &#8722; eviction</text>
+</svg>

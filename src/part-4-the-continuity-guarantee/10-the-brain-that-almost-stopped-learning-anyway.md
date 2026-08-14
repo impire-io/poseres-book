@@ -43,6 +43,8 @@ around four to eight hundred cycles, the weight size turns and begins to
 climb. Honest error turns with it, at the same moment, and never
 comes back.
 
+![Two curves turn together](figures/10-two-curves-turn-together.svg)
+
 The learning rule keeps running exactly as designed. Each step still
 reduces today's error on today's data. But the weights grow without
 bound doing it, and a network with bloated weights turns rigid: its
@@ -50,6 +52,8 @@ internal nonlinearities saturate, and the same step size that once tuned
 it now kicks it around. It doesn't forget what it knew. It loses the
 ability to be gently changed. For a brain defined by continuous change,
 that is the end of learning, even while its scores still look healthy.
+
+![The same nudge stops working](figures/10-the-same-nudge-stops-working.svg)
 
 Capacity decides who rots. The smallest frames barely do; the largest
 frames don't either; the middle sizes, exactly the sizes chapter 8
@@ -103,6 +107,8 @@ tensor's total size past the ceiling, it gets scaled back down onto it:
 direction untouched, learning never paused, no age term anywhere. A
 frame under the cap can still change any belief at any time, at full
 speed, forever. What it cannot do is inflate.
+
+![A cap, not a freezer](figures/10-a-cap-not-a-freezer.svg)
 
 The dose–response came out as clean as an experiment gets. No cap:
 rot, as before. A loose ceiling: rot attenuated but present. The shipped
