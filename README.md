@@ -28,6 +28,7 @@ src/
   ACKNOWLEDGMENTS.md
 audiobook/             narration scripts, EPUB builder, ElevenLabs kit
 STYLE.md               the writing contract — voice, two-lane rule, AI-tell bans
+ILLUSTRATIONS.md       the illustration brief — art direction + every image, described in text
 NOTES-ai-tells.md      research notes behind the style rules (not part of the book)
 outline.md             the working outline (parts → chapters → beats)
 REVISIT.md             open questions and drift found against the project record
