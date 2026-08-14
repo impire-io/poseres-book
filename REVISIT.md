@@ -12,8 +12,9 @@ remains below is gated on future events, not on decisions.
   that date (the record moves fast — journey is at 0097 while the book's
   chapters snapshot July–early August).
 - [ ] **Audiobook regeneration**: every chapter changed on 2026-08-13
-  (voice sweep + arbitration fixes); all `audiobook/scripts/` and
-  elevenlabs previews predate it. Rebuild before narration work.
+  (voice sweep + arbitration fixes); `audiobook/scripts/` regenerated
+  2026-08-14 from the revised chapters, but the elevenlabs previews and
+  epub still predate the sweep. Rebuild those before narration work.
 - [ ] **Glossary + cross-reference final pass** once chapter numbering is
   frozen. (Part renumber done 2026-08-13: teachers are Part 6, the long
   run is Part 5; encoder/decoder/snapshot entries added.)

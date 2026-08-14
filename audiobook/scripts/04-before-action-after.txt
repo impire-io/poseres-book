@@ -16,7 +16,7 @@ That shape is the foundation this entire book rests on, so let me give it its na
 [PAUSE 2]
 [SECTION — lift and re-set] One triplet, in numbers.
 
-Before going further I want to pin these words down, because the whole book stands on them and "sensed" is doing a lot of work.
+These words need pinning down before we go further, because the whole book stands on them and "sensed" is doing a lot of work.
 
 An observation is one simultaneous reading of every sensor the body has, packed into a fixed-order list of numbers. Nothing more. The rover you'll meet in Part 4 has five distance rays, a two-number compass, a two-number position beacon, and a bump detector, so one of its observations is ten numbers, always in that order. And the "before" and "after" of a triplet are both simply observations: the same ten slots, read at two consecutive steps. The triplet is the package of three things: the reading before, the action taken, the reading after.
 
@@ -37,7 +37,7 @@ Every morning the rooster crows, and then the sun comes up. A pure watcher sees 
 
 That's what the middle of the triplet is. An action is a deliberate poke at the world, and the "after" is the world's reply to your poke rather than to the general flow of events. I did this, and then that happened, and I know the "this" was mine. Stack up enough of those records and you learn something that watching can't deliver at any volume: what your actions actually do. Cause and effect can only be observed from one vantage point, and that's the inside of something that acts.
 
-This is why I keep insisting the book isn't about language or vision. Those are kinds of content, and the triplet is about the structure of experience: it comes as before, act, after, and the middle belongs to you. Any content fits the shape. A rover's triplet holds laser ranges and wheel commands. A robot hand's holds finger pressures and motor currents. As promised in chapter 1, a conversation fits too: what I heard, what I said, what came back. The shape doesn't care what flows through it, and that indifference is what will let one mechanism serve every body in this book.
+This is why I keep insisting the book isn't about language or vision. Those are kinds of content, and the triplet is about the structure of experience: it comes as before, act, after, and the middle belongs to you. Any content fits the shape. A rover's triplet holds laser ranges and wheel commands. A robot hand's holds finger pressures and motor currents. And a conversation fits, as chapter 1 promised: I heard something, I said something, something came back. The shape doesn't care what flows through it, and that indifference is what will let one mechanism serve every body in this book.
 
 [PAUSE 2]
 [SECTION — lift and re-set] The test that needs no teacher.
@@ -46,7 +46,7 @@ So a brain eats triplets. How do we know whether it's learning anything? The sha
 
 The world then does something no teacher could be paid enough to do. It grades every prediction instantly, and it has no interest in your feelings. The spoon lands where it lands. The gap between what you predicted and what arrived is your surprise, and it comes delivered fresh with every triplet, thousands of times a day, for free. A big surprise means your model of the world is wrong right here. No surprise means there's nothing left to learn in this corner today.
 
-When chapter 3 said PRA's models compete to predict well, this is the game they're competing at: smallest surprise on the next triplet. Every mechanism in Part 3 runs on prediction error as its fuel. Survival, eviction, even the discovery of size.
+Remember the crowd of small rival models this book promised you early on? This is the game they compete at: smallest surprise on the next triplet. Every mechanism in Part 3 runs on prediction error as its fuel. Survival, eviction, even the discovery of size.
 
 [BOX OMITTED FROM AUDIO: the event contract]
 

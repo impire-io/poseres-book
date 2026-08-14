@@ -61,14 +61,14 @@ The second bar asked whether the stack feeds itself, and it split in half. All 2
 
 The rows say why, and it is not a conflict between the layers. The energy runway from a cold start is about 2,000 ticks. This cohort's median time to its first completed chain is about 2,300. The floor races learning and wins by three hundred ticks. The pupils that chained early lived off their own work; the rest died in the middle of it, having done everything right and slowly.
 
-Which left two honest options. I could re-dose the decay until the numbers passed, which is cheating with extra arithmetic. Or I could look at the shape of the gap: a stretch of early life where the creature is competent enough to learn and not yet competent enough to eat. No animal is born into full stakes.
+Which left two options. I could re-dose the decay until the numbers passed, which is cheating with extra arithmetic. Or I could look at the shape of the gap: a stretch of early life where the creature is competent enough to learn and not yet competent enough to eat. No animal is born into full stakes.
 
 [PAUSE 2]
 [SECTION — lift and re-set] What a demonstration carries.
 
 That evening I wrote the premise for the reach problem down in the registration, in my own words, and the record kept them: this is what is being taught by the teachers as they teach the recipe. it involves the steps, not just the ingredients.
 
-The two roads I could see were both expensive. I could hand the brain a ladder of subgoals, which means declaring the order myself, which is chapter 3's quiet freezing wearing a new hat. Or I could build learned decomposition, planning over imagined rollouts, a research program measured in months.
+The two roads I could see were both expensive. I could hand the brain a ladder of subgoals, which means declaring the order myself, which is an old disease wearing a new hat: the designer answering a question the brain is supposed to answer for itself. Or I could build learned decomposition, planning over imagined rollouts, a research program measured in months.
 
 The third road only becomes visible once you notice what a demonstration is. Forty-five times the bot's hands had been walked through the wood chain, twelve times to the stone wall. Every one of those was recorded in the same sensor readings the bot uses to think with, in order, with the applause in the right place. The order was in the teaching all along. Nothing in the brain was keeping it: the frames learn what one step does, the head learns what one action changes, and neither of them stores a sequence.
 
@@ -118,7 +118,7 @@ So the stop file went down at the next boundary, the amendment went into the pla
 
 At step 1,000,121 the row reads 3,236 chains since birth, dwell 99.99%, energy 0.980 out of a possible 1.0, which is a bot feeding itself without ever having been told to.
 
-And one thing I did not design. For nine segments the pocket gained no cobblestone whatsoever. In the segment ending at step 500,061 it gained 691, and after that the stone never stopped: the segment that crosses the millionth step counts 1,400 cobblestone beside 1,651 logs and 5,544 sticks, each of those figures net of what crafting consumed. There is no recipe memory in this run and no label. What there is, is an itch that pays for finishing anything finishable and a meter that counts any pocket gain as food. My reading, offered as a reading: somewhere in the first half-million steps the bot found the stone face and added it to the rotation, and chapter 14's grinding twin has turned up here as a hobby that pays for itself.
+And one thing I did not design. For nine segments the pocket gained no cobblestone whatsoever. In the segment ending at step 500,061 it gained 691, and after that the stone never stopped: the segment that crosses the millionth step counts 1,400 cobblestone beside 1,651 logs and 5,544 sticks, each of those figures net of what crafting consumed. There is no recipe memory in this run and no label. What there is, is an itch that pays for finishing anything finishable and a meter that counts any pocket gain as food. My reading: somewhere in the first half-million steps the bot found the stone face and added it to the rotation, and chapter 14's grinding twin, the learner that cannot quit a paying loop, has turned up here as a hobby that pays for itself.
 
 The run is still going as I write this. The deciles that answer the endurance questions are not in. What is in is the first fiftieth of a planned life, with no death, no drift off the work position, and no sign yet of the composition wearing out.
 
