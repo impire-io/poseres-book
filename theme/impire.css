@@ -1,0 +1,195 @@
+/* The PRA book — impire reading theme.
+   Two themes survive the stock five: Light is impire.io's cool violet-cast
+   paper with PRA blue; Navy is the pre-migration impire night sky (the
+   palette the explainer still uses). Auto follows the reader's scheme.
+
+   The signature is the book's own two-lane rule made visible: story prose
+   sits in a quiet book serif; every "Under the hood" blockquote shifts into
+   the engineering voice — sans text, mono eyebrow label, PRA-blue keel. */
+
+/* mdBook sets html { font-size: 62.5% } — 1rem is 10px here; content type
+   below anchors on px and scales inner elements with em */
+:root {
+  --content-max-width: 66rem;
+  --mono-font: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace;
+  --impire-serif: 'Iowan Old Style', Charter, Georgia, Cambria, 'Times New Roman', serif;
+  --impire-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+  --impire-display: 'Bricolage Grotesque', var(--impire-sans);
+}
+
+/* ---------- day: impire paper ---------- */
+
+.light {
+  --bg: #f8f7fb;
+  --fg: #1b1f2c;
+  --sidebar-bg: #f1eff7;
+  --sidebar-fg: #515669;
+  --sidebar-non-existant: #aeb0bf;
+  --sidebar-active: #0f62c4;
+  --sidebar-spacer: #e3e1ec;
+  --scrollbar: #cbc8da;
+  --icons: #626779;
+  --icons-hover: #0f62c4;
+  --links: #0f62c4;
+  --inline-code-color: #1b1f2c;
+  --theme-popup-bg: #ffffff;
+  --theme-popup-border: #e3e1ec;
+  --theme-hover: #f1eff7;
+  --quote-bg: #ffffff;
+  --quote-border: #e3e1ec;
+  --table-border-color: #e3e1ec;
+  --table-header-bg: #f1eff7;
+  --table-alternate-bg: #f4f2f9;
+  --searchbar-border-color: #cbc8da;
+  --searchbar-bg: #ffffff;
+  --searchbar-fg: #1b1f2c;
+  --searchresults-border-color: #e3e1ec;
+  --searchresults-li-bg: #f8f7fb;
+  --search-mark-bg: #cfe6ff;
+  --footnote-highlight: #5eb1ff;
+}
+
+/* ---------- night: the old impire night sky ---------- */
+
+.navy {
+  --bg: #0e1116;
+  --fg: #dde3ec;
+  --sidebar-bg: #161b23;
+  --sidebar-fg: #8a94a6;
+  --sidebar-non-existant: #4a5364;
+  --sidebar-active: #5eb1ff;
+  --sidebar-spacer: #2a3342;
+  --scrollbar: #2a3342;
+  --icons: #8a94a6;
+  --icons-hover: #5eb1ff;
+  --links: #5eb1ff;
+  --inline-code-color: #dde3ec;
+  --theme-popup-bg: #161b23;
+  --theme-popup-border: #2a3342;
+  --theme-hover: #1c2330;
+  --quote-bg: #161b23;
+  --quote-border: #2a3342;
+  --table-border-color: #2a3342;
+  --table-header-bg: #1c2330;
+  --table-alternate-bg: #131820;
+  --searchbar-border-color: #2a3342;
+  --searchbar-bg: #161b23;
+  --searchbar-fg: #dde3ec;
+  --searchresults-border-color: #2a3342;
+  --searchresults-li-bg: #131820;
+  --search-mark-bg: #24507e;
+  --footnote-highlight: #24507e;
+  --overlay-bg: rgba(8, 10, 14, 0.5);
+}
+
+/* the other stock themes leave the picker: Auto / Light / Navy remain */
+#mdbook-theme-rust,
+#mdbook-theme-coal,
+#mdbook-theme-ayu {
+  display: none;
+}
+
+/* ---------- type: the story lane ---------- */
+
+html {
+  font-family: var(--impire-serif);
+}
+
+.content main {
+  font-size: 17px;
+  line-height: 1.68;
+}
+
+.content p {
+  text-wrap: pretty;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: var(--impire-display);
+  font-weight: 620;
+  letter-spacing: -0.012em;
+  text-wrap: balance;
+}
+
+.content h1 {
+  font-size: 2.05em;
+  line-height: 1.15;
+}
+
+/* the keel under a chapter title — same stroke the boxes carry */
+.content h1::after {
+  content: '';
+  display: block;
+  width: 52px;
+  height: 3px;
+  margin-top: 14px;
+  border-radius: 2px;
+  background: var(--links);
+  opacity: 0.85;
+}
+
+.content h2 {
+  font-size: 1.45em;
+  margin-block-start: 2.4em;
+}
+
+.menu-title {
+  font-family: var(--impire-display);
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+/* ---------- chrome: the mono voice ---------- */
+
+#mdbook-sidebar {
+  font-family: var(--mono-font);
+  font-size: 14px;
+}
+
+#mdbook-sidebar .part-title {
+  font-size: 0.72em;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+/* ---------- links ---------- */
+
+.content a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  text-decoration-color: color-mix(in srgb, var(--links) 45%, transparent);
+}
+
+.content a:hover {
+  text-decoration-color: var(--links);
+}
+
+::selection {
+  background: rgba(94, 177, 255, 0.35);
+}
+
+/* ---------- the engineering lane: "Under the hood" boxes ---------- */
+
+.content blockquote {
+  font-family: var(--impire-sans);
+  font-size: 0.92em;
+  line-height: 1.58;
+  background: var(--quote-bg);
+  border: 1px solid var(--quote-border);
+  border-left: 3px solid var(--links);
+  border-radius: 8px;
+  padding: 14px 18px;
+  margin: 1.7em 0;
+}
+
+.content blockquote > p:first-child > strong:first-child {
+  display: block;
+  margin-bottom: 6px;
+  font-family: var(--mono-font);
+  font-size: 0.82em;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--links);
+}

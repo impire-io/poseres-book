@@ -8,3 +8,7 @@ src = "src"
 [output.html]
 git-repository-url = "https://github.com/impire-io/poseres-book"
 site-url = "/poseres-book/"
+additional-css = ["theme/impire.css"]
+# hashing would rename the vendored woff2 without rewriting the url() in
+# theme/fonts/fonts.css — plain names keep the font resolvable
+hash-files = false
