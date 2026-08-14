@@ -22,11 +22,11 @@
 .light {
   --bg: #f8f7fb;
   --fg: #1b1f2c;
-  --sidebar-bg: #f1eff7;
-  --sidebar-fg: #515669;
+  --sidebar-bg: #fbfafd;
+  --sidebar-fg: #454b60;
   --sidebar-non-existant: #aeb0bf;
   --sidebar-active: #0f62c4;
-  --sidebar-spacer: #e3e1ec;
+  --sidebar-spacer: #e8e6f0;
   --scrollbar: #cbc8da;
   --icons: #626779;
   --icons-hover: #0f62c4;
@@ -55,7 +55,7 @@
   --bg: #0e1116;
   --fg: #dde3ec;
   --sidebar-bg: #161b23;
-  --sidebar-fg: #8a94a6;
+  --sidebar-fg: #a6afbf;
   --sidebar-non-existant: #4a5364;
   --sidebar-active: #5eb1ff;
   --sidebar-spacer: #2a3342;
@@ -139,17 +139,67 @@ h1, h2, h3, h4, h5 {
   letter-spacing: 0.01em;
 }
 
-/* ---------- chrome: the mono voice ---------- */
+/* ---------- chrome: the navigation rail ---------- */
 
 #mdbook-sidebar {
-  font-family: var(--mono-font);
-  font-size: 14px;
+  font-size: 15px;
+  border-right: 1px solid var(--sidebar-spacer);
 }
 
-#mdbook-sidebar .part-title {
-  font-size: 0.72em;
-  letter-spacing: 0.12em;
+#mdbook-sidebar .sidebar-scrollbox {
+  padding: 18px 14px;
+}
+
+/* part titles are mono eyebrows at the rail edge */
+.chapter li.part-title {
+  margin: 26px 6px 6px;
+  font-family: var(--mono-font);
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
+  color: var(--icons);
+}
+
+.chapter li.chapter-item {
+  margin-block-start: 2px;
+  line-height: 1.45;
+}
+
+/* the link is a flex row: mono number in a fixed slot, sans title beside
+   it — wrapped title lines stay aligned after the number */
+.chapter li a {
+  display: flex;
+  flex: 1;
+  align-items: baseline;
+  padding: 6px 10px;
+  border-radius: 8px;
+  font-family: var(--impire-sans);
+}
+
+.chapter li a strong {
+  flex: none;
+  width: 32px;
+  font-family: var(--mono-font);
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--links);
+  opacity: 0.8;
+}
+
+.chapter li a:hover {
+  color: var(--sidebar-active);
+  background: color-mix(in srgb, var(--links) 7%, transparent);
+}
+
+.chapter li a.active {
+  color: var(--sidebar-active);
+  font-weight: 600;
+  background: color-mix(in srgb, var(--links) 11%, transparent);
+}
+
+.chapter li a.active strong {
+  opacity: 1;
 }
 
 /* ---------- links ---------- */

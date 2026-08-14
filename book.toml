@@ -9,6 +9,10 @@ src = "src"
 git-repository-url = "https://github.com/impire-io/poseres-book"
 site-url = "/poseres-book/"
 additional-css = ["theme/impire.css"]
+# the book opens light for everyone — Navy stays a manual choice in the
+# theme picker, never the automatic default
+default-theme = "light"
+preferred-dark-theme = "light"
 # hashing would rename the vendored woff2 without rewriting the url() in
 # theme/fonts/fonts.css — plain names keep the font resolvable
 hash-files = false
