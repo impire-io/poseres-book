@@ -18,9 +18,10 @@ Files go next to the chapter that uses them, numbered by chapter:
 
 The diagram/chart entries are built as hand-authored SVGs in this repo;
 only the scenes and the cover go to an external image program. **Status:
-all 39 diagram/chart figures are built and embedded** (2026-08-14, under
-`src/<part>/figures/`); the 11 scenes and the cover remain open. Every SVG
-follows this spec so the set reads as one system:
+all 42 diagram/chart figures are built and embedded** (39 chapter figures
+2026-08-14 under `src/<part>/figures/`, 3 appendix figures 2026-08-16
+under `src/appendix/figures/`); the 11 scenes and the cover remain open.
+Every SVG follows this spec so the set reads as one system:
 
 - **Canvas**: `viewBox="0 0 1200 H"` (H chosen per figure, typically
   650–900; wide strips may run 1200×420). First element is the paper
@@ -1395,6 +1396,84 @@ fading on a schedule — and it lands the one prediction in the whole arc
 that hit its number exactly.
 
 ---
+
+## Appendix — The anatomy of a body
+
+Appendix figures live in `src/appendix/figures/a<N>-<slug>.svg` (the
+appendix has no chapter number; `a<N>` replaces `<NN>`). All three are
+diagrams, built 2026-08-16. The counts they draw were verified against
+the running body declaration (`c1_anatomy()`: 86 numbers, 13 acts), not
+copied from prose.
+
+### A.1 ● `the-anatomy-of-a-body` — diagram
+
+**Place:** after "Here is the body the bot wears in Minecraft today,
+grouped the way a doctor would group it:"
+
+**Show:** The bot (the cast's blocky grey-blue figure, two cubes tall,
+single dark visor band, no face) stands centered on a thin ground line
+between two faint terrain blocks. Left column, in world blue: seven
+sense groups with monospace eyebrow labels — EYES (glance ·32, blocks
+·3, drops ·8), BALANCE (pose ·5), TASTE (aim ·9), GUT (vitals ·2, flood
+·4), SKIN (env ·4), POCKETS (pocket ·4, hand ·7, grid ·7), FINGERTIPS
+(mining ·1) — each with a two-line plain-words gloss, thin leader lines
+to dots on the body. Right column: THE HEAD in ink ("empty on purpose —
+the brain is not a body part"), then MOUTH (use held), HANDS (six item
+acts), LEGS (five movement acts), and IDLE in warm amber, the acts
+being the system's own. Monospace tallies top left and right: "IN — 86
+numbers · 12 sense channels" / "OUT — 13 acts · one per tick". A full-
+width bracket beneath captions it: "the survival body for Minecraft —
+sensors in, actuators out, and no brain on the list". Do NOT give the
+bot a face or anything inside the head — the emptiness is the claim;
+the head and body fill is the frozen wash.
+
+**Serves:** The first figure anywhere in the book that opens up a
+single body and names its parts; the anchor for the appendix's
+organ-by-organ walk.
+
+### A.2 ● `what-crosses-the-seam` — diagram
+
+**Place:** after "Categories are the brain's to form."
+
+**Show:** Top: a horizontal strip of 86 small white squares outlined in
+world blue — the sensor strip — with thin blue underbrackets grouping
+them into the twelve named channels, monospace labels staggered on four
+rows (pose ·5 … aim ·9). A thick ink arrow drops to a white engine card:
+"the same engine, unchanged / the frames · the drive · the event head /
+none of it lives in the body". A second arrow drops to a row of 13
+white squares outlined in amber — the acts — labelled forward, back,
+turn L, turn R, jump, dig, place, idle, swap, put, take, result, use
+held. A thin blue return line runs up the right edge, labelled
+vertically "the world answers", back into the strip. Beneath: "no names
+cross the seam — things appear only as properties and an appearance
+signature", then the bracket caption "a body is exactly two lists —
+meaning is learned, not configured". No reward symbol anywhere — the
+absence is deliberate.
+
+**Serves:** The honest reduction behind A.1's organ words: what the
+brain actually receives and returns, and the loop that is its only
+feedback.
+
+### A.3 ● `different-worlds-different-bodies` — diagram
+
+**Place:** after "Ask for another world and you get another body:"
+
+**Show:** Left: a white engine card ("the same engine, unchanged")
+plugged into a tall frozen-wash socket strip labelled "the seam" —
+the same seam motif as chapter 12's one-seam-many-worlds figure, which
+this extends. Right: five bodies drawn as strips of small cells at one
+shared scale, blue cells for numbers in, amber for acts out: CartPole
+4 · 2, the demo rover 10 · 4, a ROS2 robot 12 · 4 (note: "snap on a new
+sensor — the strip grows; the brain resizes without forgetting"), the
+sample-field probe 16 · 7 (note: "nothing structural shared — same
+engine, zero code changes, 24/24 bars"), and Minecraft's survival body
+86 · 13, whose strip dwarfs the rest. Bracket caption: "different
+worlds grow different bodies — the engine only learns two numbers: how
+many senses, how many acts".
+
+**Serves:** The world-dependence of anatomy made visible at a glance —
+the length of the strip is the only thing the engine ever needs to
+know.
 
 ## Set-aside ideas (if a chapter runs short on art)
 

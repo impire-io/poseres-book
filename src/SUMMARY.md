@@ -38,5 +38,6 @@
 
 ---
 
+[Appendix — The anatomy of a body](appendix/the-anatomy-of-a-body.md)
 [Glossary](GLOSSARY.md)
 [Acknowledgments](ACKNOWLEDGMENTS.md)

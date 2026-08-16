@@ -62,6 +62,10 @@ tells the brain that the first five slots are distances, or that walls
 exist. Cause and effect is lying in the differences between before and
 after, waiting to be mined. That mining is Part 3's job.
 
+A rover is ten numbers. A full-grown example — the 86-number body the
+Minecraft bot wears today — is drawn organ by organ in
+[the appendix](../appendix/the-anatomy-of-a-body.md) at the back.
+
 ## Why the middle part changes everything
 
 Strike out the middle of the triplet and you're left with: what I sensed,

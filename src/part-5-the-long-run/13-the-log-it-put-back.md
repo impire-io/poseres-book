@@ -24,7 +24,10 @@ ahead, place what it holds, switch what it holds, put something in the
 grid, take it back out, take whatever the grid offers, or do nothing.
 Digging is not a button press. Wood takes about three seconds of
 choosing "dig" over and over, and the body senses the progress climb
-while it holds on.
+while it holds on. That body was an early, small one — it has since
+grown to 86 numbers, and
+[the appendix](../appendix/the-anatomy-of-a-body.md) draws the whole
+anatomy, organ by organ.
 
 The rules of the experiment were written before it started. That
 practice is called *pre-registration*: deciding what will count as
