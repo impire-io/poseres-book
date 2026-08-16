@@ -27,6 +27,7 @@ src/
   GLOSSARY.md          every plain-words definition, in order of appearance
   ACKNOWLEDGMENTS.md
 audiobook/             narration scripts, EPUB builder, ElevenLabs kit
+announcements/         social post copy per released chapter — its README is the format contract
 STYLE.md               the writing contract — voice, two-lane rule, AI-tell bans
 ILLUSTRATIONS.md       the illustration brief — art direction + every image, described in text
 NOTES-ai-tells.md      research notes behind the style rules (not part of the book)
@@ -52,6 +53,10 @@ chapters get an entry in `src/SUMMARY.md`.
   citations that moved, numbers that drifted. Findings land in `REVISIT.md`.
 - Every merged chapter passes the revision checklist at the bottom of
   `STYLE.md`.
+- Every released chapter gets an announcement file in `announcements/`: the
+  X, LinkedIn, and Bluesky copy, in the book's voice, reviewed like any other
+  text here. The `/announce-chapter` skill drafts it and plans a draft into
+  the Typefully queue; the final send always happens in Typefully.
 
 ## Building
 

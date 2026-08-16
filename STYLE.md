@@ -231,6 +231,9 @@ was decoration; cut it.
    reason is chapter 7's law") gets retold, not cited.
 7. Verify every empirical claim against the current specs/measurements —
    numbers in this project have changed before and will again.
+8. Draft the chapter's announcement (`/announce-chapter`). The copy in
+   `announcements/` is bound by this guide too, and it's easiest to write
+   while the chapter is still fresh.
 
 ## What this guide is not
 
