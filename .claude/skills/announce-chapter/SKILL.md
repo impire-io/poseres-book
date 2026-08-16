@@ -56,8 +56,14 @@ Once the file is approved (or when running the backfill queue):
 .claude/skills/announce-chapter/push.py announcements/<file>.md
 ```
 
-Needs `TYPEFULLY_API_KEY` (Typefully → Settings → API); set
-`TYPEFULLY_SOCIAL_SET_ID` too if the key sees several social sets. The
+Needs `TYPEFULLY_API_KEY`, which lives in 1Password:
+
+```
+TYPEFULLY_API_KEY=$(op read "op://Private/Typefully/api_key") \
+  .claude/skills/announce-chapter/push.py announcements/<file>.md
+```
+
+Set `TYPEFULLY_SOCIAL_SET_ID` too if the key sees several social sets. The
 draft lands planned in the next free queue slot with all three platforms
 attached. The whole backfill goes up in chapter order with
 `push.py announcements/[0-9]*.md`.
