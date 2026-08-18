@@ -39,5 +39,6 @@
 ---
 
 [Appendix — The anatomy of a body](appendix/the-anatomy-of-a-body.md)
+[Appendix — The anatomy of a brain](appendix/the-anatomy-of-a-brain.md)
 [Glossary](GLOSSARY.md)
 [Acknowledgments](ACKNOWLEDGMENTS.md)

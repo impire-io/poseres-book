@@ -170,6 +170,11 @@ is the system's understanding of the world. Learning forever stops being
 between two cliffs, and becomes something sturdier: a steady turnover of
 mortal guesses under an immortal selection rule.
 
+The store of guessers is the biggest thing in the head, but not the
+only thing. [The brain appendix](../appendix/the-anatomy-of-a-brain.md)
+at the back draws the whole anatomy, this store among the parts the
+later chapters add.
+
 Which puts enormous weight on one question: is the judging fair? A
 tournament is exactly as good as its scoring, and chapter 2 already
 showed you what happens when it isn't: v3's contestants found four

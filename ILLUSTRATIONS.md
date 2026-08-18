@@ -18,9 +18,10 @@ Files go next to the chapter that uses them, numbered by chapter:
 
 The diagram/chart entries are built as hand-authored SVGs in this repo;
 only the scenes and the cover go to an external image program. **Status:
-all 42 diagram/chart figures are built and embedded** (39 chapter figures
-2026-08-14 under `src/<part>/figures/`, 3 appendix figures 2026-08-16
-under `src/appendix/figures/`); the 11 scenes and the cover remain open.
+all 44 diagram/chart figures are built and embedded** (39 chapter figures
+2026-08-14 under `src/<part>/figures/`; 5 appendix figures under
+`src/appendix/figures/` — 3 built 2026-08-16, 2 built 2026-08-18); the
+11 scenes and the cover remain open.
 Every SVG follows this spec so the set reads as one system:
 
 - **Canvas**: `viewBox="0 0 1200 H"` (H chosen per figure, typically
@@ -1474,6 +1475,65 @@ many senses, how many acts".
 **Serves:** The world-dependence of anatomy made visible at a glance —
 the length of the strip is the only thing the engine ever needs to
 know.
+
+## Appendix — The anatomy of a brain
+
+The head-side sibling of the body appendix, same `a<N>` numbering.
+Both figures built 2026-08-18; zone names verified against the running
+code (`FrameStore`, `RecipeMemory`, `CompletionItchPolicy`) and the
+record's design 0018 the same day.
+
+### A.4 ● `the-anatomy-of-a-brain` — diagram
+
+**Place:** after "here the parts share one picture, because a question
+keeps arriving in different clothes: when the brain knows something,
+where does that knowledge live?"
+
+**Show:** Top left, in world blue: a slim observation bar ("86 numbers,
+fixed order") with a blue arrow dropping into a large ink-outlined box
+titled "THE BRAIN — one engine, every body". Beside the bar, dim: "some
+of what streams in is knowledge kept at the seam: the palate's prices,
+the flood of hunger". Inside the box, left: a white card "THE FRAME
+STORE — small rival maps, born on demand, kept while they pay" holding
+three small map·guess·learn cards and a trailing ellipsis, with a
+nested amber-stroked card "EVENT HEAD — what will this act change?".
+An ink arrow leads right to a white card "MOTIVATION — the posture,
+this moment" listing in monospace: drive value, + κ · the itch, + β ·
+the label, × κ_d · the deficit, + κ_c · commitment, with a nested
+heavy-ink card "RECIPE MEMORY — taught steps, as themselves". A
+frozen-wash bar spans the box's foot: "THE SNAPSHOT — every box above,
+one file, restored byte for byte — the brain travels as an artifact".
+An amber arrow exits the box upward to "OUT — ONE OF 13 ACTS". Caption
+beneath the box: "nothing enters except as a sense; nothing inside is
+ever finished".
+
+**Serves:** The first picture anywhere of the whole head at once — the
+anchor for the appendix's zone-by-zone walk, and the head-side answer
+to A.1.
+
+### A.5 ● `where-knowledge-lives` — diagram
+
+**Place:** after "So the honest split: inside the brain live skills,
+expectations, and one small shelf of taught steps, all plastic, all in
+chapter 11's snapshot. Facts prefer to live outside."
+
+**Show:** Two panels. Left, ink-stroked: "INSIDE THE BRAIN: SKILLS —
+plastic · snapshotted · learned by living", stacking three cards:
+FRAMES (how each corner of the world answers), EVENT HEAD
+(amber-stroked; what each act will change), RECIPE MEMORY (heavy ink;
+taught chains, the one shelf inside, grown by teaching alone). Right,
+blue-stroked: "AT THE SEAM: FACTS — artifacts the world holds ·
+sensed, never injected", holding one blue card "THE PALATE — a price
+book / born all zeros, written by meals alone / gem 1.000 · crystal
+0.100", then two short arrows: amber rightward "eating writes it (an
+act like any other)", blue leftward "the worth sense reads it back",
+and the line "copy the file: another brain can taste with it". Rule
+centered beneath both panels, bold: "whatever the brain knows beyond
+its body, it senses".
+
+**Serves:** The book's one picture of the knowledge-and-skill split:
+why this architecture keeps facts in artifacts a reader can inspect,
+and skills in the learner that earned them.
 
 ## Set-aside ideas (if a chapter runs short on art)
 

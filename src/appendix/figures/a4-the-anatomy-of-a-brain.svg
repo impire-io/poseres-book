@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 860" width="1200" height="860" role="img" aria-label="An observation bar flows down into a large brain box holding a frame store of small rival maps with a nested event head card, and a motivation card with nested recipe memory; a snapshot bar spans the bottom of the box, and an amber arrow leaves the box upward as one of thirteen acts.">
+<rect x="1" y="1" width="1198" height="858" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+<defs>
+<marker id="mI" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="4.5" markerHeight="4.5" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1b1f2c"/></marker>
+<marker id="mB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f62c4"/></marker>
+<marker id="mA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#c2410c"/></marker>
+</defs>
+<text x="60" y="76" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" letter-spacing="2" fill="#0f62c4">IN FROM THE BODY — ONE OBSERVATION</text>
+<rect x="60" y="96" width="560" height="30" rx="6" fill="#ffffff" stroke="#0f62c4" stroke-width="2"/>
+<text x="340" y="117" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#626779">86 numbers, fixed order</text>
+<text x="650" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">some of what streams in is<tspan x="650" dy="1.3em">knowledge kept at the seam:</tspan><tspan x="650" dy="1.3em">the palate's prices, the</tspan><tspan x="650" dy="1.3em">flood of hunger</tspan></text>
+<text x="1140" y="76" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" letter-spacing="2" fill="#c2410c">OUT — ONE OF 13 ACTS</text>
+<line x1="200" y1="128" x2="200" y2="184" stroke="#0f62c4" stroke-width="2.5" marker-end="url(#mB)"/>
+<line x1="1000" y1="252" x2="1000" y2="100" stroke="#c2410c" stroke-width="2.5" marker-end="url(#mA)"/>
+<rect x="60" y="190" width="1080" height="560" rx="14" fill="#f8f7fb" stroke="#1b1f2c" stroke-width="2"/>
+<text x="92" y="232" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" fill="#1b1f2c">THE BRAIN</text>
+<text x="262" y="232" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">one engine, every body</text>
+<rect x="92" y="258" width="600" height="250" rx="10" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+<text x="116" y="294" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c">THE FRAME STORE</text>
+<text x="116" y="322" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">small rival maps, born on demand, kept while they pay</text>
+<rect x="116" y="344" width="150" height="64" rx="8" fill="#ffffff" stroke="#cbc8da" stroke-width="1.5"/>
+<text x="191" y="371" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">map · guess</text>
+<text x="191" y="397" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">learn</text>
+<rect x="286" y="344" width="150" height="64" rx="8" fill="#ffffff" stroke="#cbc8da" stroke-width="1.5"/>
+<text x="361" y="371" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">map · guess</text>
+<text x="361" y="397" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">learn</text>
+<rect x="456" y="344" width="150" height="64" rx="8" fill="#ffffff" stroke="#cbc8da" stroke-width="1.5"/>
+<text x="531" y="371" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">map · guess</text>
+<text x="531" y="397" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">learn</text>
+<text x="636" y="384" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" fill="#626779">…</text>
+<rect x="116" y="424" width="490" height="50" rx="8" fill="#ffffff" stroke="#c2410c" stroke-width="2"/>
+<text x="136" y="455" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#c2410c">EVENT HEAD</text>
+<text x="276" y="455" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">what will this act change?</text>
+<line x1="692" y1="390" x2="786" y2="390" stroke="#1b1f2c" stroke-width="2" marker-end="url(#mI)"/>
+<rect x="790" y="258" width="318" height="330" rx="10" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+<text x="814" y="294" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c">MOTIVATION</text>
+<text x="814" y="322" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">the posture, this moment</text>
+<text x="814" y="356" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">drive value</text>
+<text x="814" y="386" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">+ κ · the itch</text>
+<text x="814" y="416" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">+ β · the label</text>
+<text x="814" y="446" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">× κ_d · the deficit</text>
+<text x="814" y="476" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">+ κ_c · commitment</text>
+<rect x="810" y="506" width="284" height="64" rx="8" fill="#ffffff" stroke="#1b1f2c" stroke-width="2.5"/>
+<text x="834" y="533" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">RECIPE MEMORY</text>
+<text x="834" y="559" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">taught steps, as themselves</text>
+<rect x="92" y="620" width="1016" height="90" rx="10" fill="#e8edf5" stroke="#cbc8da" stroke-width="2"/>
+<text x="116" y="658" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c">THE SNAPSHOT</text>
+<text x="116" y="686" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">every box above, one file, restored byte for byte — the brain travels as an artifact</text>
+<text x="600" y="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">nothing enters except as a sense; nothing inside is ever finished</text>
+</svg>

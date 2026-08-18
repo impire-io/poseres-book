@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640" role="img" aria-label="Two panels: inside the brain sit frames, the event head, and recipe memory, all plastic and snapshotted; at the seam sits the palate as a price book written by eating and read back as the worth sense; a rule beneath both says whatever the brain knows beyond its body, it senses.">
+<rect x="1" y="1" width="1198" height="638" rx="14" fill="#f8f7fb" stroke="#e3e1ec" stroke-width="2"/>
+<defs>
+<marker id="mB2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f62c4"/></marker>
+<marker id="mA2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#c2410c"/></marker>
+</defs>
+<rect x="60" y="80" width="500" height="420" rx="12" fill="#ffffff" stroke="#cbc8da" stroke-width="2"/>
+<text x="84" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c">INSIDE THE BRAIN: SKILLS</text>
+<text x="84" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">plastic · snapshotted · learned by living</text>
+<rect x="84" y="180" width="452" height="80" rx="8" fill="#ffffff" stroke="#cbc8da" stroke-width="1.5"/>
+<text x="104" y="212" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">FRAMES</text>
+<text x="104" y="242" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">how each corner of the world answers</text>
+<rect x="84" y="276" width="452" height="80" rx="8" fill="#ffffff" stroke="#c2410c" stroke-width="1.5"/>
+<text x="104" y="308" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#c2410c">EVENT HEAD</text>
+<text x="104" y="338" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">what each act will change</text>
+<rect x="84" y="372" width="452" height="96" rx="8" fill="#ffffff" stroke="#1b1f2c" stroke-width="2.5"/>
+<text x="104" y="404" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">RECIPE MEMORY</text>
+<text x="104" y="434" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">taught chains, the one shelf inside<tspan x="104" dy="1.3em">(grown by teaching alone)</tspan></text>
+<rect x="640" y="80" width="500" height="420" rx="12" fill="#ffffff" stroke="#0f62c4" stroke-width="2"/>
+<text x="664" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c">AT THE SEAM: FACTS</text>
+<text x="664" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">artifacts the world holds · sensed, never injected</text>
+<rect x="664" y="180" width="452" height="140" rx="8" fill="#ffffff" stroke="#0f62c4" stroke-width="2"/>
+<text x="684" y="214" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#0f62c4">THE PALATE — a price book</text>
+<text x="684" y="246" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">born all zeros, written by meals alone</text>
+<text x="684" y="286" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="20" fill="#1b1f2c">gem 1.000 · crystal 0.100</text>
+<line x1="664" y1="368" x2="744" y2="368" stroke="#c2410c" stroke-width="2.5" marker-end="url(#mA2)"/>
+<text x="764" y="375" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">eating writes it (an act like any other)</text>
+<line x1="744" y1="416" x2="664" y2="416" stroke="#0f62c4" stroke-width="2.5" marker-end="url(#mB2)"/>
+<text x="764" y="423" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">the worth sense reads it back</text>
+<text x="664" y="470" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" fill="#626779">copy the file: another brain can taste with it</text>
+<text x="600" y="560" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#1b1f2c">whatever the brain knows beyond its body, it senses</text>
+</svg>

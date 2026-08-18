@@ -230,7 +230,10 @@ the steps that led to a result can be walked again. One recipe per
 finished item, the last demonstration of it. This cohort had two.
 Wood, ending in sticks, with no applause anywhere. Stone, ending in
 cobblestone, with the parent's approval stored inside the remembered
-ending.
+ending. This memory is the one bookshelf the brain carries inside;
+where it sits among the other parts is drawn in
+[the brain appendix](../appendix/the-anatomy-of-a-brain.md) at the
+back.
 
 Choosing between them is one line. At each step, score every stored
 recipe by what its ending is worth to the bot's own drive, plus the
